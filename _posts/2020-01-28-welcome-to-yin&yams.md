@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to Yin&Yams!"
-categories: 
+categories:
 	-lifestyle
 ---
 
