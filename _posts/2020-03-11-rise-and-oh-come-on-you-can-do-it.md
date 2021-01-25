@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Welcome to Yin&Yams!"
+title: "Rise and...oh come on you can do it!"
 share: true
 comments: true
 related: true
