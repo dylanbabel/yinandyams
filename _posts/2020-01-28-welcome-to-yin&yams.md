@@ -1,6 +1,7 @@
 ---
 layout: posts
 title: "Welcome to Yin&Yams!"
+related: true
 categories:
   - Lifestyle
 tags:
