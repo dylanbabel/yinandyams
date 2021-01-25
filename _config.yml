@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yin & Yams Blog"
+title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hannah Chapeskie"
@@ -28,7 +28,7 @@ teaser                   : /assets/images/header1.jpg
 logo                     : /assets/images/logo.png
 masthead_title           : ""
 breadcrumbs              : false
-words_per_minute         : 150
+words_per_minute         : 100
 comments:
   provider               : "utterances"
   disqus:
@@ -99,26 +99,26 @@ author:
   
   If you are passionate about food, fitness, photography, art and general wellness...you might want to stick around!"
   location         : "Canada"
-  email            :
+  email            : hannahchapeskie@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto: hannahchapeskie@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://yinandyams.tk"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/YinYams-107679257599385/?modal=admin_todo_tour"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/hannahchapeskie"
 
 # Site Footer
 footer:
@@ -128,7 +128,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: https://www.facebook.com/YinYams-107679257599385/?modal=admin_todo_tour
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: https://instagram.com/hannahchapeskie
 
 
 # Reading Files
