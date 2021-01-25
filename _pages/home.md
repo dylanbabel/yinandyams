@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: splash
-permalink:/
+permalink:/home/
 date: 2021-01-25
 header:
   overlay_color: "#000"
