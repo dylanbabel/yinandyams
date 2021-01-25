@@ -10,7 +10,7 @@ tags:
   - lifestyle
 ---
 
-"BEEP...BEEP...BEEP". Your alarm goes off. You told yourself you would wake up at 6AM, go to the gym, and finish your work before starting your day. You hit snooze. An extra 10 minutes couldn't hurt. You hit snooze again...and again...and suddenly, its 8AM...
+*__"BEEP...BEEP...BEEP". Your alarm goes off. You told yourself you would wake up at 6AM, go to the gym, and finish your work before starting your day. You hit snooze. An extra 10 minutes couldn't hurt. You hit snooze again...and again...and suddenly, its 8AM...__*
 
 
 
