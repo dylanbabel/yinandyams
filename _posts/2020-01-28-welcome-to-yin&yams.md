@@ -7,7 +7,6 @@ related: true
 categories:
   - Lifestyle
 tags:
-  - comments
   - lifestyle
 ---
 
