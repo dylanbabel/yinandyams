@@ -27,7 +27,7 @@ repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-m
 teaser                   : /assets/images/header1.jpg
 logo                     : /assets/images/logo.png
 masthead_title           : ""
-breadcrumbs              : true
+breadcrumbs              : false
 words_per_minute         : 150
 comments:
   provider               : "utterances"
@@ -248,10 +248,10 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
 #   layouts:
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
