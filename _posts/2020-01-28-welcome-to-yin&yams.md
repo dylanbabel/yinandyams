@@ -1,8 +1,15 @@
 ---
 layout: posts
 title: "Welcome to Yin&Yams!"
+comments: true
+categories:
+  - Lifestyle
+tags:
+  - comments
+  - lifestyle
 ---
-
+categories:
+	-lifestyle
 Whether you know me in person, came from my old blog, or are a total stranger, you should totally stick around for some exciting content all about food, nutrition, fitness, health, and self care! Now for a bit about me...
 
 
