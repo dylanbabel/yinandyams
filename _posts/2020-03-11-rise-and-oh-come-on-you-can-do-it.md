@@ -28,24 +28,24 @@ I don't recall being a morning person for most of my teenage life. My mom would 
  So without further ado, here are my top 6 tips to getting out of that cozy nest of blankets in the morning and accomplishing whatever is important to you!
 
 
-1. Go to Bed! *separate paragraph*
+1 - Go to Bed! -
 Seems obvious right? You are never going to get up at 6AM if you go to bed at 1AM every evening, or morning I should say. Calculate the time you need to be asleep in order to get at least 8hrs each night. An hour before this bedtime, start to wind down. Avoid screens (or use blue light blocking lenses/nightshift mode if unavoidable) and start getting ready to sleep. Change into comfy clothes, do your nighttime skincare/teethbrushing etc., get some tea, and do whatever you like to do to relax (I recommend reading!).  When your bedtime hits, no matter how good your book or show (on a screen you should not be looking at!) is getting, turn out that light and get some sleep.
 
 
-2. Just. Get. Up. *separate paragraph*
+2 - Just. Get. Up. -
 
 Just do it. Don't think about it and don't even consider any other options. STOP hitting snooze. You will be more tired if you keep going back to sleep. You made a promise to yourself when you set that alarm the night before, so don't break it. Don't let yourself down before your day even starts. 
 
 
-3. Have a Routine *separate paragraph*
+3 - Have a Routine *separate paragraph*
 If you don't know why the heck you are even waking up at ungodly hours of the morning, why would you be motivated to do it? Figure out what you want to do in this time each morning. Do you want to read a book, journal, mediate, finish homework, work on a side hustle, or go to the gym? Maybe a combination of these things? It can be hard for us to find the time to do things for ourselves day-to-day. Take this time as a gift to yourself to work on you, what you love, and what makes you excited. Make this routine consistent each day, which means waking up early on the weekends too (yes. I mean it). 
 
 
-4. Ease Into It *separate paragraph*
+4 - Ease Into It *separate paragraph*
 Just like building any other habit, you are more likley to fail if you go cold turkey. Try easing your way into an early schedule by waking up a little earlier each week until waking up at your goal time seems manageable. This could look like setting your alarm 15mins, 30mins or even an hour earlier each week. It all depends on how difficult early rising is for you, and how soon you want to be getting up at your goal time. (But if jumping right in to a new routine is your style...hello fellow type A's...go for it!)
 
 
-5. Get a Friend or Partner Involved *separate paragraph*
+5 - Get a Friend or Partner Involved *separate paragraph*
 Now this one just might get you an eye role and a "Not in your wildest dreams". However, if you are able to find someone that is willing to get up with you, it can help you to be accountable and stay consistent. This is especially helpful if you are living with a partner (as it is very easy to just stay cozy in that blanket nest together), or a roommate. In addition, this tip is good when you are looking to include a morning activity such as the gym that can be done together. However, if you plan to spend this time on your own in silence, you may wish to skip this one. 
 
 
