@@ -1,6 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Yin&Yams!"
+title: "Welcome to Yin&Yams!"
+categories: 
+	-lifestyle
 ---
 
 Whether you know me in person, came from my old blog, or are a total stranger, you should totally stick around for some exciting content all about food, nutrition, fitness, health, and self care! Now for a bit about me...
