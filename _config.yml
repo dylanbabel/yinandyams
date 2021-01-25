@@ -95,7 +95,8 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Welcome to my blog! My name is Hannah and I am a nutrition student from Canada.
+  If you are passionate about food, fitness, photography, art and general wellness...you might want to stick around!"
   location         : "Somewhere"
   email            :
   links:
