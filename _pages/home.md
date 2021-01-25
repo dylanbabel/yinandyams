@@ -8,6 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: http://dylanbabel.tk/yinandyams/assets/images/header1.JPG
 ---
+
 {{ content }}
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
