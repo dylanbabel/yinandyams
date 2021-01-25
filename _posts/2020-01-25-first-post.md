@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-author: HC
-comments: true
 ---
 
 # Welcome
