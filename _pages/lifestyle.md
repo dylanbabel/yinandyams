@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: category
 title: "Lifestyle Posts"
 permalink: /lifestyle/
 entries_layout: grid
