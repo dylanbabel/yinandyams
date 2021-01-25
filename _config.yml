@@ -28,7 +28,7 @@ teaser                   : /assets/images/header1.jpg
 logo                     : /assets/images/logo.png
 masthead_title           : ""
 breadcrumbs              : true
-words_per_minute         : 200
+words_per_minute         : 150
 comments:
   provider               : "utterances"
   disqus:
