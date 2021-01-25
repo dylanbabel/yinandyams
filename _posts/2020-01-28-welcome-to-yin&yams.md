@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Welcome to Yin&Yams!"
 categories:
 	-lifestyle
