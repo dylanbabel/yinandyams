@@ -1,0 +1,4 @@
+---
+title: "Lifestyle"
+layout: category
+---
