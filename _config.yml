@@ -298,7 +298,7 @@ defaults:
       layout: single
       author_profile: false
       share: true
-    # _docs
+  # _docs
   - scope:
       path: ""
       type: categories
