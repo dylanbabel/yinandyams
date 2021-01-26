@@ -44,12 +44,11 @@ If you don't know why the heck you are even waking up at ungodly hours of the mo
 Just like building any other habit, you are more likley to fail if you go cold turkey. Try easing your way into an early schedule by waking up a little earlier each week until waking up at your goal time seems manageable. This could look like setting your alarm 15mins, 30mins or even an hour earlier each week. It all depends on how difficult early rising is for you, and how soon you want to be getting up at your goal time. (But if jumping right in to a new routine is your style...hello fellow type A's...go for it!)
 
 
-5 - Get a Friend or Partner Involved -
+5 - Get a Friend or Partner Involved <br>
 Now this one just might get you an eye role and a "Not in your wildest dreams". However, if you are able to find someone that is willing to get up with you, it can help you to be accountable and stay consistent. This is especially helpful if you are living with a partner (as it is very easy to just stay cozy in that blanket nest together), or a roommate. In addition, this tip is good when you are looking to include a morning activity such as the gym that can be done together. However, if you plan to spend this time on your own in silence, you may wish to skip this one. 
 
 
-6. Move Your Body *separate paragraph*
-
+6. Move Your Body <br>
 Again, this may not be for everyone depending on your intentions for this time. However, if you are considering adding something active into your early morning routine, I highly suggest it. Moving your body helps to make you feel awake and releases dopamine and other happy hormones to help reduce stress throughout your day. It is amazing getting your gym session out of the way before you are able to make excuses not to go, and are feeling drained. Personally, this tip makes me feel accomplished, even if the rest of my day is unproductive. 
 
 
