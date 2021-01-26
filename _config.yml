@@ -21,8 +21,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hannah Chapeskie"
 description              : "An amazing website."
-url                      : https://dylanbabel.tk
-baseurl                  : /yinandyams
+url                      : https://blog.yinandyams.tk
+baseurl                  : /
 repository               : dylanbabel/yinandyams
 teaser                   : /assets/images/header1.jpg
 logo                     : /assets/images/logo.png
