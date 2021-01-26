@@ -14,6 +14,7 @@ main:
 #side-bar
 categories:
   - title: "Categrories"
+    url: /categories/
     children:
     - title: "Lifestyle"
       url: /categories/lifestyle/
