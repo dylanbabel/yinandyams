@@ -298,6 +298,13 @@ defaults:
       layout: single
       author_profile: false
       share: true
+    # _docs
+  - scope:
+      path: ""
+      type: categories
+    values:
+      sidebar:
+        nav: "categories"
 collections:
   portfolio:
     output: true

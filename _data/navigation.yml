@@ -5,17 +5,19 @@ main:
   - title: "Shop"
     url: https://yinandyams.tk/shop
   - title: "Blog"
-    children:
-      - title: "Blog"
-        url: https://blog.yinandyams.tk/
-      - title: "Categories"
-        url: /categories/
-      children:
-        - title: "Lifestyle"
-          url: /categories/lifestyle/
-        - title: "Recipies"
-          url: /categories/recipies/
+    url: https://blog.yinandyams.tk/
   - title: "Instagram"
     url: https://www.instagram.com/yinandyams/
   - title: "Contact Us"
     url: https://yinandyams.tk/contactUs
+
+#side-bar
+categories:
+  - title: Categrories
+  children:
+    - title: "Lifestyle"
+      url: /categories/lifestyle/
+    - title: "Recipies"
+      url: /categories/recipies/
+    - title: "Quarantine"
+      url: /categories/quarentine/
