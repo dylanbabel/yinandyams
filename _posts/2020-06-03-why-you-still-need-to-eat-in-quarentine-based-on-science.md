@@ -8,9 +8,7 @@ comments: true
 related: true
 categories:
   - Quarantine
-  - Lifestyle
 tags:
-  - lifestyle
   - quarantine
 ---
 
