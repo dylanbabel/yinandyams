@@ -101,9 +101,9 @@ author:
   location         : "Canada"
   email            : hannahchapeskie@gmail.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto: hannahchapeskie@gmail.com"
+    #- label: "Email"
+    # icon: "fas fa-fw fa-envelope-square"
+    #  url: "mailto: hannahchapeskie@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://yinandyams.tk"
