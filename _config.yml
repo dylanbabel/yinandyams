@@ -292,6 +292,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        nav: "categories"
   # _portfolio
   - scope:
       path: ""
@@ -300,6 +302,8 @@ defaults:
       layout: single
       author_profile: false
       share: true
+      sidebar:
+        nav: "categories"
   # _docs
   - scope:
       path: ""
