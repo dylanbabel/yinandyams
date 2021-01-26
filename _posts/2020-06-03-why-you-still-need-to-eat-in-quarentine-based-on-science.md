@@ -39,22 +39,18 @@ Calories and metabolism are two hot words year round, but especially right now. 
 
 Your metabolism is basically all of the chemical reactions that occur inside your body that produce energy for you to live. Metabolism consists of three main components that tell us where this energy is being used and ultimately will determine how many calories your body needs in a day:
 
-
 1 - Basal Metabolic Rate (BMR) <br>
 Your BMR is a number that tells you how many calories (or how much energy) your body needs when you are at complete rest. This means lying down, not moving. This energy is what is required to keep your basic bodily functions...functioning, including breathing, blood circulation, and cell repair. BMR is determined by your body size and composition (how much muscle you have), your sex, and your age. 
-
 
 2 - Thermogenesis <br>
 Thermogenisis is literally the amount of calories that it takes for your body to digest, absorb, and transport the food you eat. This is where the theory of "zero calorie" foods like celery come from (a.k.a it takes the same or more calories to eat the food than it's worth).
 
-
 3 - Physical Activity <br>
 This definition of physical activity doesn't just mean going to the gym or getting in an at-home workout. In this case, physical activity includes any movement of your body from going to the store, getting up and down from the couch, and walking in your neighbourhood (or typing on your laptop *wink wink*). 
 
-
 So you're telling me that I burn calories sitting on my couch and eating?! Win! But seriously, lets look at a graph: 
 
-{% iclude figure image_path="/assets/images/post-photos/BMR 50-80%.png" alt="This is a pie chart of metabolic components: 5-10% Thermic, 20-30% Physical, and 50-80% BMR" %}
+{% include figure image_path="/assets/images/post-photos/BMR 50-80%.png" alt="This is a pie chart of metabolic components: 5-10% Thermic, 20-30% Physical, and 50-80% BMR" %}
 
 So yes, you do burn calories doing these two effortless activities. In fact, BMR makes up the majority of the energy that is used at 50-80%! Of course I think exercise is so important for our physical and mental wellbeing, but the point is, of you aren't able to achieve as intense workouts as you once did in the gym/are not moving as much, your body STILL NEEDS calories and food to function. To keep you alive! 
 
