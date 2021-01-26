@@ -25,7 +25,7 @@ url                      : https://blog.yinandyams.tk
 baseurl                  : 
 repository               : dylanbabel/yinandyams
 teaser                   : /assets/images/header1.jpg
-logo                     : /assets/images/logo.png
+logo                     : /assets/images/logo.svg
 masthead_title           : " "
 breadcrumbs              : false
 words_per_minute         : 100
