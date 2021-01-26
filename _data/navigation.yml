@@ -5,7 +5,16 @@ main:
   - title: "Shop"
     url: https://yinandyams.tk/shop
   - title: "Blog"
-    url: https://blog.yinandyams.tk/
+    children:
+      - title: "Blog"
+        url: https://blog.yinandyams.tk/
+      - title: "Categories"
+        url: /categories/
+      children:
+        - title: "Lifestyle"
+          url: /categories/lifestyle/
+        - title: "Recipies"
+          url: /categories/recipies/
   - title: "Instagram"
     url: https://www.instagram.com/yinandyams/
   - title: "Contact Us"
