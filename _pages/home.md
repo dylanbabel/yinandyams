@@ -5,13 +5,13 @@ permalink: /
 date: 2021-01-25
 header:
   overlay_color: "#F5DCE1"
-  overlay_filter: "0.1"
+  overlay_filter: "0.3"
   overlay_image: https://blog.yinandyams.tk/assets/images/header.jpg
   actions:
     - label: "shop"
       url: "https://yinandyams.tk"
   caption: ""
-excerpt: ""
+  excerpt: ""
 ---
 
 {{ content }}
