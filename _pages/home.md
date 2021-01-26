@@ -5,7 +5,7 @@ permalink: /
 date: 2021-01-25
 header:
   overlay_color: "#F5DCE1"
-  overlay_filter: "0.5"
+  overlay_filter: "0.1"
   image: https://blog.yinandyams.tk/assets/images/header.jpg
   actions:
     - label: "shop"
