@@ -10,7 +10,7 @@ header:
   actions:
     - label: "shop"
       url: "https://yinandyams.tk"
-  caption: ""
+  caption: "Property of Yin & Yams"
   excerpt: ""
 ---
 
