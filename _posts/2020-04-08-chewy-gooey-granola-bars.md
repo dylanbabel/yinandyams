@@ -14,36 +14,25 @@ Granola bars are such an awesome snack or addition to your breakfast! However, i
 
 
 
-##**~ Chewy, Gooey, Granola Bars Recipe ~**
+## **~ Chewy, Gooey, Granola Bars Recipe ~**
 
 
-###Ingredients:
+### Ingredients:
 
 * 1 cup rolled oats
-
 * 2 tbsp chia seeds
-
 * 1/4 cup chopped nuts (I used almonds)
-
 * 1/4 cup pumpkin seeds 
-
 * 1/4 cup dried cranberries
-
 * 1/4 cup dark chocolate chips
-
 * 1/2 tbsp cinnamon
-
 * sea salt 
-
 * 1 egg*
-
 * 1/4 cup peanut butter 
-
 * 2 tbsp honey**
-
 * about 1/2 cup almond milk 
 
-###Directions:
+### Directions:
 
 1. Set oven to 350C.
 
