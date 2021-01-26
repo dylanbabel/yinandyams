@@ -13,7 +13,7 @@ main:
 
 #side-bar
 categories:
-  - title: Categrories
+  - title: "Categrories"
   children:
     - title: "Lifestyle"
       url: /categories/lifestyle/
