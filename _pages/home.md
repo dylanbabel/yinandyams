@@ -7,6 +7,11 @@ header:
   overlay_color: "#F5DCE1"
   overlay_filter: "0.5"
   image: https://blog.yinandyams.tk/assets/images/header.jpg
+  actions:
+    - label: "shop"
+      url: "https://yinandyams.tk"
+  caption: ""
+excerpt: ""
 ---
 
 {{ content }}
