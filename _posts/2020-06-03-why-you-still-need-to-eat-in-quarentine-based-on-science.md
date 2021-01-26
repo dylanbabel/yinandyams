@@ -1,6 +1,7 @@
 ---
 layout: posts
 title: "Why You Still Need to Eat in Quarantine (Based on Science)"
+author: HC
 share: true
 comments: true
 related: true
