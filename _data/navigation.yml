@@ -14,7 +14,7 @@ main:
 #side-bar
 categories:
   - title: "Categrories"
-  children:
+    children:
     - title: "Lifestyle"
       url: /categories/lifestyle/
     - title: "Recipies"
