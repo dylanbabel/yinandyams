@@ -1,6 +1,6 @@
 ---
 title: Quarantine
 layout: category
-permalink: /quarantine/
+permalink: /categories/quarantine/
 taxonomy: Quarantine
 ---

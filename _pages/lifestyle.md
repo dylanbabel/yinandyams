@@ -1,6 +1,6 @@
 ---
 title: Lifestyle
 layout: category
-permalink: /lifestyle/
+permalink: /categories/lifestyle/
 taxonomy: Lifestyle
 ---
