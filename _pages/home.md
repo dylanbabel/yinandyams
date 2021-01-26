@@ -5,11 +5,14 @@ permalink: /
 date: 2021-01-25
 header:
   image: https://blog.yinandyams.tk/assets/images/header.jpg
+  actions:
+    - label: "posts"
+      url: "#section2"
 ---
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h3 id="section2" class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
