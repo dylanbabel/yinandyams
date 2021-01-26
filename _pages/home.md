@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 date: 2021-01-25
 header:
-  image: "https://blog.yinandyams.tk/assets/images/header1.jpg"
+  image: https://blog.yinandyams.tk/assets/images/header.jpg
 ---
 
 {{ content }}
