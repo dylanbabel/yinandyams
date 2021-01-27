@@ -8,6 +8,7 @@ author: HC
 feature_row:
   - image_path: /assets/images/post-photos/stacked.png
     alt: "Bars Stacked on a plate"
+    url: "https://blog.yinandyams.tk/assets/images/post-photos/stacked.png"
   - image_path:  /assets/images/post-photos/in hand.png
 categories:
   - Recipies
