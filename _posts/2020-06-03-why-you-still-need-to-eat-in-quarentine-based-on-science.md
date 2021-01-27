@@ -1,9 +1,11 @@
 ---
 title: "Why You Still Need to Eat in Quarantine (Based on Science)"
 author: HC
-share: true
-comments: true
-related: true
+header:
+  overlay_color: "#F5DCE1"
+  overlay_filter: "0.1"
+  overlay_image: /assets/images/post-photos/sad plate.png
+  teaser: "/assets/images/post-photos/sad plate.png"
 categories:
   - Quarantine
 tags:
