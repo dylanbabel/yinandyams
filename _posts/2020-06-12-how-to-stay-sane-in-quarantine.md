@@ -11,7 +11,7 @@ layouts_gallery:
     image_path: /assets/images/post-photos/journal small.png
 layouts_gallery_2:
   - url: /assets/images/post-photos/hike.jpg
-    image_path: /assets/images/post-photos/hike.jpg
+    image_path: /assets/images/post-photos/hike small.jpg
 layouts_gallery_2:
   - url: /assets/images/post-photos/laptop and camera.jpg
     image_path: /assets/images/post-photos/hike.jpg
