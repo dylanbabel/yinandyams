@@ -35,7 +35,7 @@ I don't recall being a morning person for most of my teenage life. My mom would 
 Seems obvious right? You are never going to get up at 6AM if you go to bed at 1AM every evening, or morning I should say. Calculate the time you need to be asleep in order to get at least 8hrs each night. An hour before this bedtime, start to wind down. Avoid screens (or use blue light blocking lenses/nightshift mode if unavoidable) and start getting ready to sleep. Change into comfy clothes, do your nighttime skincare/teethbrushing etc., get some tea, and do whatever you like to do to relax (I recommend reading!).  When your bedtime hits, no matter how good your book or show (on a screen you should not be looking at!) is getting, turn out that light and get some sleep.
 
 
-2 - Just. Get. Up. <br>
+2 - Just. Get. Up. <br>{% include gallery id="layouts_gallery_2" %}{: .align-right}
 Just do it. Don't think about it and don't even consider any other options. STOP hitting snooze. You will be more tired if you keep going back to sleep. You made a promise to yourself when you set that alarm the night before, so don't break it. Don't let yourself down before your day even starts. {% include gallery id="layouts_gallery_2" %}{: .align-right}
 
 3 - Have a Routine <br>
