@@ -1,7 +1,7 @@
 ---
 title: "Chewy, Gooey, Granola Bars"
 header:
-  image: /assets/images/post-photos/bars on plate.png
+  overlay_image: /assets/images/post-photos/bars on plate.png
 author: HC
 categories:
   - Recipies
