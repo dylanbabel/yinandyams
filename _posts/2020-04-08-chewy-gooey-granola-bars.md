@@ -4,6 +4,7 @@ header:
   overlay_color: "#F5DCE1"
   overlay_filter: "0.1"
   overlay_image: /assets/images/post-photos/bars on plate.png
+  teaser: "/assets/images/post-photos/bars on plate.png"
 author: HC
 layouts_gallery:
   - url: /assets/images/post-photos/stacked.png
