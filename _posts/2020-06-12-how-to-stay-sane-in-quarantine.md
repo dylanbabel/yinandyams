@@ -9,9 +9,9 @@ header:
 layouts_gallery:
   - url: /assets/images/post-photos/journal.png
     image_path: /assets/images/post-photos/journal.png
-    title: "My beautiful sisters Bryanna (middle), Alyssa (right) and I."
-  - url: /assets/images/post-photos/sisters 2.png
-    image_path: /assets/images/post-photos/sisters 2.png
+layouts_gallery_2:
+  - url: /assets/images/post-photos/journal.png
+    image_path: /assets/images/post-photos/journal.png
 categories:
   - quarantine
 tags:
@@ -38,7 +38,7 @@ Whether you are currently completing some form of work or not, I have found deve
 The most important piece of establishing an at-home routine is consistency. Once you find what works for you and makes you feel good, stick with it until you feel it is time to shake things up. Many of the following tips cover activities that I have integrated into my own routine to create a feeling of normalcy in my life.
 
 
-2. Wake up!
+2 - Wake up!
 Part of your routine should include a consistent wake up time. I will always vouch for early rising, but I can understand that there may be an extra temptation to sleep in when there is not much to do during the day. However, waking up early and allowing yourself to either A. take it slow or B. grind out some some tasks or a workout (whichever suits you best!) will completely change your entire day. Sleeping in can leave you feeling groggy and unmotivated. Not to mention, your day seems to disappear that much faster!
 
 
