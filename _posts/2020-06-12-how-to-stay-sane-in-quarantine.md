@@ -15,6 +15,9 @@ layouts_gallery_2:
 layouts_gallery_3:
   - url: /assets/images/post-photos/laptop and camera.jpg
     image_path: /assets/images/post-photos/aptop and camera small.jpg
+layouts_gallery_4:
+  - url: /assets/images/post-photos/envelope.jpg
+    image_path: /assets/images/post-photos/envelope small.jpg
 categories:
   - quarantine
 tags:
@@ -78,7 +81,7 @@ For those of us who have the luxury of turning our attentions away from the tech
 Personally I love cooking and baking. However, as a busy student I don't always have the time to try out new recipes and experiment. Take this time to cook something new and to prepare a nice meal for yourself and/or family. Baking of course is included in this tip and is a great treat to drop off on a friends's doorstep. Don't feel "basic" if you want to jump on that banana bread or sourdough baking trend. (P.S. if you are thinking about jumping on the sourdough wagon check out our shop!). 
 
 10 - Write snail mail to family and friends.<br>
-
+{% include gallery id="layouts_gallery_4" %}{: .align-left}
 Growing up, my two older sisters were off at school and in the world by the time I was about six. Some of my favourite memories (and one of the reasons I think that we still have  had a strong relationship over the years despite the distance) was snail mail. We would send back and forth letters, little trinkets, drawings, and basically anything fun that could fit into a small bubble envelope.
 
 Not enough people send handwritten letters anymore and not enough people even practice writing by hand! I have experienced the magic of snail mail myself and I PROMISE you, nothing compares. It is so thoughtful, exciting, and fun, especially in today's tech obsessed world. So pick up some paper and get writing to your family and friends!
