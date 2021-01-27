@@ -9,7 +9,7 @@ header:
 layouts_gallery:
   - url: /assets/images/post-photos/sisters.png
     image_path: /assets/images/post-photos/sisters.png
-    caption: "My beautiful sisters Bryanna (middle), Alyssa (right) and I."
+    title: "My beautiful sisters Bryanna (middle), Alyssa (right) and I."
   - url: /assets/images/post-photos/sisters 2.png
     image_path: /assets/images/post-photos/sisters 2.png
 categories:
