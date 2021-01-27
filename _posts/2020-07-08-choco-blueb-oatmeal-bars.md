@@ -5,6 +5,9 @@ header:
   overlay_color: "#F5DCE1"
   overlay_filter: "0.1"
   overlay_image: /assets/images/post-photos/bars in dish.jpeg
+  actions:
+    - label: "Jump to Recipie"
+      url: "/#choco-blueb-oatmeal-bars-recipe/"
   teaser: "/assets/images/post-photos/bars in dish.jpeg"
 categories:
   - Recipies
