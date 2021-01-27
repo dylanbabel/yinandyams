@@ -1,6 +1,8 @@
 ---
 title: "Chewy, Gooey, Granola Bars"
 header:
+  overlay_color: "#F5DCE1"
+  overlay_filter: "0.1"
   overlay_image: /assets/images/post-photos/bars on plate.png
 author: HC
 categories:
