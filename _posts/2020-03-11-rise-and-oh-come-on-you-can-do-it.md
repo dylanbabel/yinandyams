@@ -5,6 +5,7 @@ header:
   overlay_color: "#F5DCE1"
   overlay_filter: "0.1"
   overlay_image: /assets/images/post-photos/Coffee Beans.png
+  teaser: "/assets/images/post-photos/Coffee Beans.png"
 layouts_gallery:
   - url: /assets/images/post-photos/coffee.png
     image_path: /assets/images/post-photos/coffee.png
