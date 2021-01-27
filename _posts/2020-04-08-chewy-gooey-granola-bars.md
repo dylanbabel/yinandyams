@@ -8,7 +8,6 @@ author: HC
 feature_row:
   - image_path: /assets/images/post-photos/stacked.png
     alt: "Bars Stacked on a plate"
-    title: "bars on a plate"
   - image_path:  /assets/images/post-photos/in hand.png
 categories:
   - Recipies
