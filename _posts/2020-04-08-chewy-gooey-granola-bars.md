@@ -5,11 +5,12 @@ header:
   overlay_filter: "0.1"
   overlay_image: /assets/images/post-photos/bars on plate.png
 author: HC
-feature_row:
-  - image_path: /assets/images/post-photos/stacked.png
+layouts_gallery:
+  - url: /assets/images/post-photos/stacked.png
+    image_path: /assets/images/post-photos/stacked.png
     alt: "Bars Stacked on a plate"
-    url: "https://blog.yinandyams.tk/assets/images/post-photos/stacked.png"
-  - image_path:  /assets/images/post-photos/in hand.png
+  - url: /assets/images/post-photos/in hand.png
+    image_path: /assets/images/post-photos/in hand.png
 categories:
   - Recipies
 tags:
@@ -64,5 +65,5 @@ Recipe Notes
 *sub with flax egg for vegan
 
 **sub with maple syrup for vegan 
-{% include feature_row %}
+{% include gallery id="layouts_gallery" %}
 
