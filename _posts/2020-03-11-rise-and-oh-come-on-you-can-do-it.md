@@ -7,6 +7,9 @@ layouts_gallery:
 layouts_gallery_2:
   - url: /assets/images/post-photos/alarm.png
     image_path: /assets/images/post-photos/alarm small.png
+layouts_gallery_3:
+  - url: /assets/images/post-photos/head stand.png
+    image_path: /assets/images/post-photos/head stand small.png
 categories:
   - Lifestyle
 tags:
@@ -16,7 +19,7 @@ tags:
 *__"BEEP...BEEP...BEEP". Your alarm goes off. You told yourself you would wake up at 6AM, go to the gym, and finish your work before starting your day. You hit snooze. An extra 10 minutes couldn't hurt. You hit snooze again...and again...and suddenly, its 8AM...__*
 
 
-{% include gallery id="layouts_gallery" type="center" %}
+{% include gallery id="layouts_gallery" %}{: .align-center}
 
 
 Getting out of bed in the morning can be hard. Especially if you are not naturally a morning person. 
@@ -50,7 +53,7 @@ Just like building any other habit, you are more likley to fail if you go cold t
 Now this one just might get you an eye role and a "Not in your wildest dreams". However, if you are able to find someone that is willing to get up with you, it can help you to be accountable and stay consistent. This is especially helpful if you are living with a partner (as it is very easy to just stay cozy in that blanket nest together), or a roommate. In addition, this tip is good when you are looking to include a morning activity such as the gym that can be done together. However, if you plan to spend this time on your own in silence, you may wish to skip this one. 
 
 
-6 - Move Your Body <br>
+6 - Move Your Body <br>{% include gallery id="layouts_gallery_3" %}{: .align-right}
 Again, this may not be for everyone depending on your intentions for this time. However, if you are considering adding something active into your early morning routine, I highly suggest it. Moving your body helps to make you feel awake and releases dopamine and other happy hormones to help reduce stress throughout your day. It is amazing getting your gym session out of the way before you are able to make excuses not to go, and are feeling drained. Personally, this tip makes me feel accomplished, even if the rest of my day is unproductive. 
 
 
