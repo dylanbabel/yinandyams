@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Yin&Yams!"
+title: "How to Stay Sane in Quarentine"
 author: HC
 header:
   overlay_color: "#F5DCE1"
