@@ -43,7 +43,7 @@ The most important piece of establishing an at-home routine is consistency. Once
 
 Part of your routine should include a consistent wake up time. I will always vouch for early rising, but I can understand that there may be an extra temptation to sleep in when there is not much to do during the day. However, waking up early and allowing yourself to either A. take it slow or B. grind out some some tasks or a workout (whichever suits you best!) will completely change your entire day. Sleeping in can leave you feeling groggy and unmotivated. Not to mention, your day seems to disappear that much faster!
 
-*TIP:* another big one is making your bed as soon as you wake up. An unmade bed is just an invitation to jump right back in for more sleep. Studies show that this simple action will help you feel motivated to accomplish more in the day. And hey, even if you don't, at least you make your bed!
+**TIP:** another big one is making your bed as soon as you wake up. An unmade bed is just an invitation to jump right back in for more sleep. Studies show that this simple action will help you feel motivated to accomplish more in the day. And hey, even if you don't, at least you make your bed!
 
 ## 3 - Get yourself ready.<br>
 
