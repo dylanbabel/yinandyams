@@ -18,7 +18,7 @@ tags:
   - quarantine
 ---
 
-***Feeling unmotivated, unproductive, and generally lost in quarantine? ***
+***Feeling unmotivated, unproductive, and generally lost in quarantine?***
 
 
 That's totally okay. You are not alone. You are allowed to feel these things and give in to them. We are not living in a normal world right now and we are all feeling pretty thrown off. However, for the sake of our mental health and sanity, I do believe that it is important to try and establish some normalcy during this time. A full day of Netflix, YouTube, or loafing around is completely acceptable if that is what serves you right now, but doing so on the daily definitely won't make us feel our best. 
