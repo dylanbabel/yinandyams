@@ -14,7 +14,7 @@ layouts_gallery_2:
     image_path: /assets/images/post-photos/hike small.jpg
 layouts_gallery_2:
   - url: /assets/images/post-photos/laptop and camera.jpg
-    image_path: /assets/images/post-photos/hike.jpg
+    image_path: /assets/images/post-photos/aptop and camera small.jpg
 categories:
   - quarantine
 tags:
