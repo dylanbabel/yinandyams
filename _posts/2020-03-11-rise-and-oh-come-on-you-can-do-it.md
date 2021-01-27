@@ -6,7 +6,7 @@ layouts_gallery:
     image_path: /assets/images/post-photos/coffee.png
 layouts_gallery_2:
   - url: /assets/images/post-photos/coffee.png
-    image_path: /assets/images/post-photos/coffee.png
+    image_path: /assets/images/post-photos/alarm.png
 categories:
   - Lifestyle
 tags:
