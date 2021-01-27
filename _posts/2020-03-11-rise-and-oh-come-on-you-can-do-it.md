@@ -1,8 +1,9 @@
 ---
 title: "Rise and...oh come on you can do it!"
-share: true
-comments: true
-related: true
+author: HC
+layouts_gallery:
+  - url: /assets/images/post-photos/coffee.png
+    image_path: /assets/images/post-photos/coffee.png
 categories:
   - Lifestyle
 tags:
@@ -12,7 +13,7 @@ tags:
 *__"BEEP...BEEP...BEEP". Your alarm goes off. You told yourself you would wake up at 6AM, go to the gym, and finish your work before starting your day. You hit snooze. An extra 10 minutes couldn't hurt. You hit snooze again...and again...and suddenly, its 8AM...__*
 
 
-
+{% include gallery id="layouts_gallery" type="center" %}
 
 
 Getting out of bed in the morning can be hard. Especially if you are not naturally a morning person. 
