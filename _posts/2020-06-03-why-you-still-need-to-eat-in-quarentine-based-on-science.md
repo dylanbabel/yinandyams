@@ -6,6 +6,9 @@ header:
   overlay_filter: "0.1"
   overlay_image: /assets/images/post-photos/sad plate.png
   teaser: "/assets/images/post-photos/sad plate.png"
+layouts_gallery:
+  - url: /assets/images/post-photos/BMR 50-80%.png
+    image_path: /assets/images/post-photos/BMR 50-80%.png
 categories:
   - Quarantine
 tags:
@@ -49,7 +52,7 @@ This definition of physical activity doesn't just mean going to the gym or getti
 
 So you're telling me that I burn calories sitting on my couch and eating?! Win! But seriously, lets look at a graph: 
 
-{% include figure image_path="/assets/images/post-photos/BMR 50-80%.png" alt="This is a pie chart of metabolic components: 5-10% Thermic, 20-30% Physical, and 50-80% BMR" %}
+{% include gallery id="layouts_gallery" alt="This is a pie chart of metabolic components: 5-10% Thermic, 20-30% Physical, and 50-80% BMR" %}
 
 So yes, you do burn calories doing these two effortless activities. In fact, BMR makes up the majority of the energy that is used at 50-80%! Of course I think exercise is so important for our physical and mental wellbeing, but the point is, of you aren't able to achieve as intense workouts as you once did in the gym/are not moving as much, your body STILL NEEDS calories and food to function. To keep you alive! 
 
