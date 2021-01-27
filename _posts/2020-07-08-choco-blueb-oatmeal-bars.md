@@ -61,7 +61,10 @@ For the base:
 ***
 
 ***Recipe notes:***
-*swap for walnuts, pecans, peanuts OR seeds such as pumpkin seeds 
-**swap for any kind of dried fruit or berry such as cranberries or raisins OR for a bar that is 
-***less sweet substitute with some seeds or more nuts swap with a vegan alternative lice rice syrup to veganise 
+
+** *swap for walnuts, pecans, peanuts OR seeds such as pumpkin seeds**
+
+** **swap for any kind of dried fruit or berry such as cranberries or raisins OR for a bar that is**
+
+** ***less sweet substitute with some seeds or more nuts swap with a vegan alternative lice rice syrup to veganise**
 
