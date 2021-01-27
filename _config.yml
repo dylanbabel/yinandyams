@@ -30,7 +30,7 @@ masthead_title           : " "
 breadcrumbs              : false
 words_per_minute         : 150
 comments:
-  provider               : "utterances"
+  provider               : "facebook"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
