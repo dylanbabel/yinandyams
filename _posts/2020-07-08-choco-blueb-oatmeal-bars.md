@@ -6,9 +6,6 @@ header:
   overlay_filter: "0.1"
   overlay_image: /assets/images/post-photos/bars in dish.jpeg
   teaser: "/assets/images/post-photos/bars in dish.jpeg"
-layouts_gallery:
-  - url: /assets/images/post-photos/journal.png
-    image_path: /assets/images/post-photos/journal small.png
 categories:
   - Recipies
 tags:
