@@ -39,8 +39,7 @@ Seems obvious right? You are never going to get up at 6AM if you go to bed at 1A
 
 
 2 - Just. Get. Up. <br>
-{% include gallery id="layouts_gallery_2" %}{: .align-right}
-Just do it. Don't think about it and don't even consider any other options. STOP hitting snooze. You will be more tired if you keep going back to sleep. You made a promise to yourself when you set that alarm the night before, so don't break it. Don't let yourself down before your day even starts. 
+Just do it. Don't think about it and don't even consider any other options. STOP hitting snooze. You will be more tired if you keep going back to sleep. You made a promise to yourself when you set that alarm the night before, so don't break it. Don't let yourself down before your day even starts.{% include gallery id="layouts_gallery_2" %}{: .align-right} 
 
 3 - Have a Routine <br>
 If you don't know why the heck you are even waking up at ungodly hours of the morning, why would you be motivated to do it? Figure out what you want to do in this time each morning. Do you want to read a book, journal, mediate, finish homework, work on a side hustle, or go to the gym? Maybe a combination of these things? It can be hard for us to find the time to do things for ourselves day-to-day. Take this time as a gift to yourself to work on you, what you love, and what makes you excited. Make this routine consistent each day, which means waking up early on the weekends too (yes. I mean it). 
