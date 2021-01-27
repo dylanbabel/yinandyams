@@ -66,4 +66,4 @@ Again, this may not be for everyone depending on your intentions for this time. 
 I hope these tips help to get you started on your early morning routine journey. Stay determined and stay consistent. Remember, it takes 30 days to build a habit! If you do need the extra sleep somedays, do not feel guilty. Always listen to your body and what it needs. Also, if you are not interested in waking up early, then that's okay too! There is not one perfect routine for everyone, and every routine is valid and right if it works best for you! 
 
 
-photo credits to Danielle MacInnes, Maks Styazhkin and myself. 
+**photo credits to Danielle MacInnes, Maks Styazhkin and myself. **

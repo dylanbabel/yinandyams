@@ -63,4 +63,4 @@ Please do not give into diet culture and please keep fueling your body properly.
 Keep staying positive everyone! You've got this :) 
 
 
-Photo creds: Thought Catalog, Hannah Chapeskie (myself), and Jamie Matociños.
+**Photo creds: Thought Catalog, Hannah Chapeskie (myself), and Jamie Matociños.**
