@@ -8,7 +8,7 @@ header:
   teaser: "/assets/images/post-photos/stay home.png"
 layouts_gallery:
   - url: /assets/images/post-photos/journal.png
-    image_path: /assets/images/post-photos/journal.png
+    image_path: /assets/images/post-photos/journal small.png
 layouts_gallery_2:
   - url: /assets/images/post-photos/journal.png
     image_path: /assets/images/post-photos/journal.png
