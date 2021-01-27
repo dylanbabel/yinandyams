@@ -1,6 +1,10 @@
 ---
 title: "Rise and...oh come on you can do it!"
 author: HC
+header:
+  overlay_color: "#F5DCE1"
+  overlay_filter: "0.1"
+  overlay_image: /assets/images/post-photos/Coffee Beans.png
 layouts_gallery:
   - url: /assets/images/post-photos/coffee.png
     image_path: /assets/images/post-photos/coffee.png
