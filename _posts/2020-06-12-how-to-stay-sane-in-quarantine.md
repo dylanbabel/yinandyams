@@ -66,8 +66,7 @@ I think this one is also kind of obvious, but I find it hard to actually START s
 Now that you probably have a LOT of time on your hands, why not actually start that project or hobby that you have been putting off. Filling your time with useful and enjoyable activities is so much more fufilling than the alternatives. And who knows, you may even discover a new passion or business idea! 
 
 ## 8 - Put away the technology.
-{% include gallery id="layouts_gallery_3" %}{: .align-right}
-I think we can all agree that our screen times have skyrocketed during quarantine. For a lot of us this may be a necessity for work and/or school or even for our new skills we are learning. If you absolutely must be on a computer all day I would highly recommend purchasing a pair of blue light glasses to save your eyes. You can find them for relatively cheap on Amazon. 
+{% include gallery id="layouts_gallery_3" %}{: .align-right} I think we can all agree that our screen times have skyrocketed during quarantine. For a lot of us this may be a necessity for work and/or school or even for our new skills we are learning. If you absolutely must be on a computer all day I would highly recommend purchasing a pair of blue light glasses to save your eyes. You can find them for relatively cheap on Amazon. 
 
 For those of us who have the luxury of turning our attentions away from the tech, try picking up a hobby that doesn't require the computer or your phone. Read a book, take a walk, paint, draw, play a board game, do a puzzle, learn how to knit...the options are endless. Consider including your housemates OR family and friends in other households via video chat! 
 
