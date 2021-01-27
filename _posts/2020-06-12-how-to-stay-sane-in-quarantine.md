@@ -31,7 +31,6 @@ If you are feeling unmotivated, unproductive, and generally lost in quarantine, 
 
 Our "normal" lives are generally structured and scheduled. We have work, school, and other commitments that fill our days. Even though many of us are still doing some sort of work from home, we now lack the element of moving locations and have maybe lost the element of time. It becomes easy to put off completing work OR to work for hours and hours on end.{% include gallery id="layouts_gallery" %}{: .align-right}
 
-
 Whether you are currently completing some form of work or not, I have found developing a consistent at-home routine essential for my sanity. Establishing a time to start activities that are important like work and scheduling in time to take breaks, eat meals, relax, and spend time with family will not only increase your productivity and efficiency but help to prevent burnout. Take advantage of tools such as calendar alerts and reminders or even your phone timer to help you stay on track with important tasks and periods of rest.
 
 
