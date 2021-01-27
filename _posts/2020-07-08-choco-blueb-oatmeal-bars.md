@@ -40,3 +40,25 @@ For the base:
 ### For the chocolate drizzle:
 * about 1/4 cup dark chocolate chips (I ended up with extra so you could eyeball it depending on how much topping you want)
 * 1 tbsp coconut oil (adjust if using less chocolate)
+
+***
+
+## Instructions:
+
+1. Preheat oven to 350C.
+2. Add all base ingredients into a medium bowl. With a wooden spoon, stir well until combined and tacky.
+3. Lightly grease a baking dish (I used a 9x5 glass dish). Pour mixture into dish and spread evenly.
+4. With a metal spoon, smooth out the surface and press firmly to pack down the mixture. This step is essential for helping your bars stay together.
+5. Place the baking tray in the oven and bake for 20mins until lightly browned on the edges.
+6. During the last 5mins of baking, add the 1/4 cup of chocolate chips and 1tbsp coconut oil into a small pot for the drizzle. Stir continuously on medium heat until the chocolate has fully melted and combined with the oil. Remove from heat.
+7. Remove the baking tray from the oven and with a spoon, drizzle the chocolate over the surface. Finish with a sprinkle of sea salt.
+8. Once cool enough, place the baking tray in the fridge to continue to set. Once the chocolate drizzle is fully hardened (after a few hours), cut the bars using a sharp knife (I ended up with 10 bars).
+9. Store in the refrigerator in an airtight container for up to 3 weeks (if they last that long!).
+
+***
+
+***Recipe notes:***
+*swap for walnuts, pecans, peanuts OR seeds such as pumpkin seeds 
+**swap for any kind of dried fruit or berry such as cranberries or raisins OR for a bar that is 
+***less sweet substitute with some seeds or more nuts swap with a vegan alternative lice rice syrup to veganise 
+
