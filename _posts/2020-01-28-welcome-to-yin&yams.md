@@ -1,6 +1,17 @@
 ---
 title: "Welcome to Yin&Yams!"
 author: HC
+header:
+  overlay_color: "#F5DCE1"
+  overlay_filter: "0.1"
+  overlay_image: /assets/images/post-photos/mountain top.png
+  teaser: "/assets/images/post-photos/mountain top.png"
+layouts_gallery:
+  - url: /assets/images/post-photos/sisters.png
+    image_path: /assets/images/post-photos/sisters.png
+    caption: "My beautiful sisters Bryanna (middle), Alyssa (right) and I."
+  - url: /assets/images/post-photos/sisters 2.png
+    image_path: /assets/images/post-photos/sisters 2.png
 categories:
   - Lifestyle
 tags:
@@ -15,10 +26,7 @@ Whether you know me in person, came from my old blog, or are a total stranger, y
 
 My name is Hannah Chapeskie and I am 20 years old from Ontario, Canada (despite what the above photo may lead you to believe). I grew up with my mom, dad, and two super cool older twin sisters who I worshiped as a little girl (and honestly still do!). 
 
-
-My beautiful sisters Bryanna (middle), Alyssa (right) and I.
-
-
+{% include gallery id="layouts_gallery" %}{: .align-center}
 
 I also grew up dancing from the time I was 2 and half years old until the age of 18. By the time I was 10, I was dancing competitively and spent almost every day training at my dance studio. It was at the studio where I was greatly shaped into the person I am, for the better and the worse. It was at dance where I learned dedication, hard work, mind over matter, success, failure, and teamwork. It was also where I learned how to pick myself apart, doubt myself, and where my eating disorder both budded and bloomed (more on this topic later...). 
 

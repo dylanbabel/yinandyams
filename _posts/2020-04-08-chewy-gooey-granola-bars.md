@@ -66,5 +66,5 @@ Recipe Notes
 *sub with flax egg for vegan
 
 **sub with maple syrup for vegan 
-{% include gallery id="layouts_gallery" type="center" %}
+{% include gallery id="layouts_gallery" %}{: .align-center}
 
