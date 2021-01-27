@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/post-photos/bars in dish.jpeg
   actions:
     - label: "Jump to Recipie"
-      url: "https://blog.yinandyams.tk/recipies/choco-blueb-oatmeal-bars/#choco-blueb-oatmeal-bars-recipe/"
+      url: "#choco-blueb-oatmeal-bars-recipe"
   teaser: "/assets/images/post-photos/bars in dish.jpeg"
 categories:
   - Recipies
