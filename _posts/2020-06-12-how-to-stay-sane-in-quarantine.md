@@ -52,7 +52,7 @@ One of my favourite tips is to get yourself ready for your day. Even though you 
 I have mentioned this a few times, but one of my new year's resolutions was to take daily walks and to generally get outside more often. I am so proud to say that I have stuck to this resolution pretty well, even during quarentine, and am definitely reaping the benefits.
 
 Whether its walking, hiking, sun tanning, or playing Frisbee, get outside! (bonus if you are getting some exercise in). Being cooped up inside all winter and then all summer is the route to vitamin D deficiency which will most definitely not help to boost your mood or motivation. I cannot express how good I feel when I get outdoors enough, especially in the summer sun!
-
+<br>
 ## 5 - Exercise.
 I know you know, but I had to put it here! Personally, I have been enjoying running, walking, biking, yoga, and at-home pilate style workouts. If you now have access to your gym (not me sadly), take advantage of the opportunity! Exercising will release hormones that will help improve your mood and and enhance your immune system. Exercising also helps to wake me up and give me long lasting energy all day.
 
