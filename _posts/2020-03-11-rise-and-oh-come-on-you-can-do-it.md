@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: "Rise and...oh come on you can do it!"
 share: true
 comments: true

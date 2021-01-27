@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: "Welcome to Yin&Yams!"
 author: HC
 categories:
