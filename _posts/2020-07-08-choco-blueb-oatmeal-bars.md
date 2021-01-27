@@ -9,7 +9,7 @@ header:
 categories:
   - Recipies
 tags:
-  - Recipies
+  - recipies
 ---
 
 ***Gf, df, refined sugar free and easy!***
