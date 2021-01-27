@@ -22,7 +22,7 @@ tags:
 
 Granola bars are such an awesome snack or addition to your breakfast! However, if you are trying to reduce your waste and ensure you are eating all good ingredients, you should try this recipe to make your own! 
 
-
+***
 
 # **~ Chewy, Gooey, Granola Bars Recipe ~**
 
