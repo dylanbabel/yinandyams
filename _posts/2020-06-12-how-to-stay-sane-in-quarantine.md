@@ -19,7 +19,7 @@ layouts_gallery_4:
   - url: /assets/images/post-photos/2020-06-12-how-to-stay-sane-in-quarantine/envelope.jpg
     image_path: /assets/images/post-photos/2020-06-12-how-to-stay-sane-in-quarantine/envelope small.jpg
 categories:
-  - quarantine
+  - Quarantine
 tags:
   - quarantine
 ---
