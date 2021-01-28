@@ -3,15 +3,15 @@ title: "Chewy, Gooey, Granola Bars"
 header:
   overlay_color: "#F5DCE1"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/post-photos/bars on plate.png
-  teaser: "/assets/images/post-photos/bars on plate.png"
+  overlay_image: /assets/images/post-photos/2020-04-08-chewy-gooey-granola-bars/bars on plate.png
+  teaser: "/assets/images/post-photos/2020-04-08-chewy-gooey-granola-bars/bars on plate.png"
 author: HC
 layouts_gallery:
-  - url: /assets/images/post-photos/stacked.png
-    image_path: /assets/images/post-photos/stacked.png
+  - url: /assets/images/post-photos/2020-04-08-chewy-gooey-granola-bars/stacked.png
+    image_path: /assets/images/post-photos/2020-04-08-chewy-gooey-granola-bars/stacked small.png
     alt: "Bars Stacked on a plate"
-  - url: /assets/images/post-photos/in hand.png
-    image_path: /assets/images/post-photos/in hand.png
+  - url: /assets/images/post-photos/2020-04-08-chewy-gooey-granola-bars/in hand.png
+    image_path: /assets/images/post-photos/2020-04-08-chewy-gooey-granola-bars/in hand small.png
 categories:
   - Recipies
 tags:
