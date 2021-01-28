@@ -205,11 +205,11 @@
 
   .archive__item-teaser {
     @include breakpoint($small) {
-      max-height: 266.94px;
+      max-height: 275px;
     }
 
     @include breakpoint($medium) {
-      max-height: 120px;
+      max-height: 195px;
     }
   }
 }
