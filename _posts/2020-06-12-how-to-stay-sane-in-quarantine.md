@@ -4,20 +4,20 @@ author: HC
 header:
   overlay_color: "#F5DCE1"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/post-photos/stay home.png
-  teaser: "/assets/images/post-photos/stay home.png"
+  overlay_image: /assets/images/post-photos/2020-06-12-how-to-stay-sane-in-quarantine/stay home.png
+  teaser: "/assets/images/post-photos/2020-06-12-how-to-stay-sane-in-quarantine/stay home.png"
 layouts_gallery:
-  - url: /assets/images/post-photos/journal.png
-    image_path: /assets/images/post-photos/journal small.png
+  - url: /assets/images/post-photos/2020-06-12-how-to-stay-sane-in-quarantine/journal.png
+    image_path: /assets/images/post-photos/2020-06-12-how-to-stay-sane-in-quarantine/journal small.png
 layouts_gallery_2:
-  - url: /assets/images/post-photos/hike.jpg
-    image_path: /assets/images/post-photos/hike small.jpg
+  - url: /assets/images/post-photos/2020-06-12-how-to-stay-sane-in-quarantine/hike.jpg
+    image_path: /assets/images/post-photos/2020-06-12-how-to-stay-sane-in-quarantine/hike small.jpg
 layouts_gallery_3:
-  - url: /assets/images/post-photos/laptop and camera.jpg
-    image_path: /assets/images/post-photos/aptop and camera small.jpg
+  - url: /assets/images/post-photos/2020-06-12-how-to-stay-sane-in-quarantine/laptop and camera.jpg
+    image_path: /assets/images/post-photos/2020-06-12-how-to-stay-sane-in-quarantine/laptop and camera small.jpg
 layouts_gallery_4:
-  - url: /assets/images/post-photos/envelope.jpg
-    image_path: /assets/images/post-photos/envelope small.jpg
+  - url: /assets/images/post-photos/2020-06-12-how-to-stay-sane-in-quarantine/envelope.jpg
+    image_path: /assets/images/post-photos/2020-06-12-how-to-stay-sane-in-quarantine/envelope small.jpg
 categories:
   - quarantine
 tags:
