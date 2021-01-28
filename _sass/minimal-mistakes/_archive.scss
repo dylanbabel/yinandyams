@@ -154,48 +154,25 @@
 
   @include breakpoint($small) {
     float: left;
-    width: span(5 of 10);
+    width: span(1 of 2);
 
-    &:nth-child(2n + 1) {
+    &:nth-child(2n) {
       clear: both;
       margin-left: 0;
     }
-
-    &:nth-child(2n + 2) {
-      clear: none;
-      margin-left: gutter(of 10);
-    }
   }
+
 
   @include breakpoint($medium) {
     margin-left: 0; /* override margin*/
     margin-right: 0; /* override margin*/
-    width: span(3 of 12);
+    width: span(1 of 2);
 
-    &:nth-child(2n + 1) {
+    &:nth-child(2n) {
       clear: none;
-    }
-
-    &:nth-child(4n + 1) {
-      clear: both;
-    }
-
-    &:nth-child(4n + 2) {
-      clear: none;
-      margin-left: gutter(1 of 12);
-    }
-
-    &:nth-child(4n + 3) {
-      clear: none;
-      margin-left: gutter(1 of 12);
-    }
-
-    &:nth-child(4n + 4) {
-      clear: none;
-      margin-left: gutter(1 of 12);
     }
   }
-
+}
   .page__meta {
     margin: 0 0 4px;
     font-size: 0.6em;
