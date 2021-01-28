@@ -49,7 +49,7 @@ One of my favourite tips is to get yourself ready for your day. Even though you 
 
 ## 4 - Go outside.
 {% include gallery id="layouts_gallery_2" %}{: .align-left}
- 
+<br>
 I have mentioned this a few times, but one of my new year's resolutions was to take daily walks and to generally get outside more often. I am so proud to say that I have stuck to this resolution pretty well, even during quarentine, and am definitely reaping the benefits.
 
 Whether its walking, hiking, sun tanning, or playing Frisbee, get outside! (bonus if you are getting some exercise in). Being cooped up inside all winter and then all summer is the route to vitamin D deficiency which will most definitely not help to boost your mood or motivation. I cannot express how good I feel when I get outdoors enough, especially in the summer sun!
@@ -66,9 +66,9 @@ I think this one is also kind of obvious, but I find it hard to actually START s
 
 Now that you probably have a LOT of time on your hands, why not actually start that project or hobby that you have been putting off. Filling your time with useful and enjoyable activities is so much more fufilling than the alternatives. And who knows, you may even discover a new passion or business idea! 
 
-## 8 - Put away the technology.
 {% include gallery id="layouts_gallery_3" %}{: .align-right}
 
+## 8 - Put away the technology.
 I think we can all agree that our screen times have skyrocketed during quarantine. For a lot of us this may be a necessity for work and/or school or even for our new skills we are learning. If you absolutely must be on a computer all day I would highly recommend purchasing a pair of blue light glasses to save your eyes. You can find them for relatively cheap on Amazon. 
 
 For those of us who have the luxury of turning our attentions away from the tech, try picking up a hobby that doesn't require the computer or your phone. Read a book, take a walk, paint, draw, play a board game, do a puzzle, learn how to knit...the options are endless. Consider including your housemates OR family and friends in other households via video chat! 
