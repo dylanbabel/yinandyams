@@ -275,10 +275,14 @@
 
     .feature__item-teaser {
       @include breakpoint($small) {
-      max-height: 200px;
+        max-height: 200px;
+      }
+
+      @include breakpoint($medium) {
+        max-height: 120px;
+      }
     }
   }
-
   .archive__item-body {
     padding-left: gutter(1 of 12);
     padding-right: gutter(1 of 12);
