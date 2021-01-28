@@ -1,5 +1,5 @@
 ---
-title: "How to Stay Sane in Quarentine"
+title: "How to Stay Sane in Quarantine"
 author: HC
 header:
   overlay_color: "#F5DCE1"
