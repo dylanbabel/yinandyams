@@ -4,11 +4,16 @@ author: HC
 header:
   overlay_color: "#F5DCE1"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/post-photos/bars in dish.jpeg
+  overlay_image: /assets/images/post-photos/2020-07-08-choco-blueb-oatmeal-bars/bars in dish.jpeg
   actions:
     - label: "Jump to Recipie"
       url: "#choco-blueb-oatmeal-bars-recipe"
-  teaser: "/assets/images/post-photos/bars in dish.jpeg"
+  teaser: "/assets/images/post-photos/2020-07-08-choco-blueb-oatmeal-bars/bars in dish.jpeg"
+layouts_gallery:
+  - url: /assets/images/post-photos/2020-07-08-choco-blueb-oatmeal-bars/stuff in bowl.jpeg
+    image_path: /assets/images/post-photos/2020-07-08-choco-blueb-oatmeal-bars/stuff in bowl small.jpeg
+  - url: /assets/images/post-photos/2020-07-08-choco-blueb-oatmeal-bars/bars.jpeg
+    image_path: /assets/images/post-photos/2020-07-08-choco-blueb-oatmeal-bars/bars small.jpeg
 categories:
   - Recipies
 tags:
@@ -68,3 +73,4 @@ For the base:
 
 ** ***less sweet substitute with some seeds or more nuts swap with a vegan alternative lice rice syrup to veganise**
 
+{% include gallery id="layouts_gallery" %}
