@@ -14,7 +14,7 @@ layouts_gallery:
     image_path: /assets/images/post-photos/2020-01-28-welcome-to-yin&yams/sisters 2.png
 layouts_gallery_2:
   - url: /assets/images/post-photos/2020-01-28-welcome-to-yin&yams/fruit and muffin plate.png
-    image_path: /assets/images/post-photos/2020-01-28-welcome-to-yin&yams/fruit and muffin plate.png
+    image_path: /assets/images/post-photos/2020-01-28-welcome-to-yin&yams/fruit and muffin plate small.png
 categories:
   - Lifestyle
 tags:
