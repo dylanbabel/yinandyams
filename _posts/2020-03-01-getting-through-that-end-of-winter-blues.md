@@ -11,7 +11,7 @@ layouts_gallery:
     image_path: /assets/images/post-photos/2020-03-01-getting-through-that-end-of-winter-blues/person small.jpg
 layouts_gallery_2:
   - url: /assets/images/post-photos/2020-03-01-getting-through-that-end-of-winter-blues/meal.jpg
-    image_path: /assets/images/post-photos/2020-03-01-getting-through-that-end-of-winter-blues/meal.jpg
+    image_path: /assets/images/post-photos/2020-03-01-getting-through-that-end-of-winter-blues/meal small.jpg
 layouts_gallery_3:
   - url: /assets/images/post-photos/2020-03-01-getting-through-that-end-of-winter-blues/room.jpg
     image_path: /assets/images/post-photos/2020-03-01-getting-through-that-end-of-winter-blues/room.jpg
@@ -34,6 +34,7 @@ One of the major changes I made this past winter was getting outside for regular
 ## 2 - Take supplements.
 I typically take calcium and multivitamins all year round, but this winter I decided to up my game. I began incorporating a vitamin D3 into my winter routine and believe that it has played a significant role in boosting my mood and energy (as I notice the difference when I forget!). Make sure your supplements are always legitimate as you don't want to be putting anything unsafe or unregulated in your body (products that are licensed for sale in Canada and are safe for use will have a Natural Product Number (NPN), a Drug Identification Number (DIN), or Homeopathic Medicine Number (DIN-HM) on the bottle). 
 
+{% include gallery id="layouts_gallery_2" %}{: .align-right}
 
 ## 3 - Eat well and move your body. 
 Getting in some quality exercise and nutrition will completley change your mood and energy levels. Make sure you take the time to eat a colourful diet that is abundant in fruits, vegetables, and micronutrients during the winter whilst getting your sweat on and releasing that dopamine! 
