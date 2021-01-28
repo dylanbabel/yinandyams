@@ -273,7 +273,8 @@
       margin-left: gutter(of 12);
     }
 
-    .archive__item-teaser {
+    .feature__item-teaser {
+      @include breakpoint($small) {
       max-height: 200px;
     }
   }
