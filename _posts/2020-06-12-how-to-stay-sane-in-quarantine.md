@@ -47,8 +47,7 @@ Part of your routine should include a consistent wake up time. I will always vou
 ## 3 - Get yourself ready.
 One of my favourite tips is to get yourself ready for your day. Even though you may not be leaving your house, get out of your pajamas, freshen up, and even do your makeup and hair (if you feel like it of course!). I have been making an effort to at a minimum, get out of my panamas every single day in quarantine. This action creates a separation for me and helps me to feel like I am getting in the zone to do productive tasks.
 
-## 4 - Go outside.
-{% include gallery id="layouts_gallery_2" %}{: .align-left}
+## 4 - Go outside. {% include gallery id="layouts_gallery_2" %}{: .align-left}
 <br>
 I have mentioned this a few times, but one of my new year's resolutions was to take daily walks and to generally get outside more often. I am so proud to say that I have stuck to this resolution pretty well, even during quarentine, and am definitely reaping the benefits.
 
