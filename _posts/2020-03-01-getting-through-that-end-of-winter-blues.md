@@ -29,7 +29,7 @@ Winter is loooong. Especially in Canada. I know that we are reaching the end of 
 <br>
 ## 1 - Get outside.
 One of the major changes I made this past winter was getting outside for regular walks. I stopped driving to school every morning of the week and bundled up for the 20min walk instead. This required me to be more organized in the mornings to give myself this time, but it has definitely been worth it. Walking outside helped me to adjust to the cold and made me feel so much more awake (especially if I caught the sun). It also gave me a time to reflect and almost meditate as I had 20mins to myself to just think or listen to a podcast. 
-
+<br>
 ## 2 - Take supplements.
 I typically take calcium and multivitamins all year round, but this winter I decided to up my game. I began incorporating a vitamin D3 into my winter routine and believe that it has played a significant role in boosting my mood and energy (as I notice the difference when I forget!). Make sure your supplements are always legitimate as you don't want to be putting anything unsafe or unregulated in your body (products that are licensed for sale in Canada and are safe for use will have a Natural Product Number (NPN), a Drug Identification Number (DIN), or Homeopathic Medicine Number (DIN-HM) on the bottle). 
 
