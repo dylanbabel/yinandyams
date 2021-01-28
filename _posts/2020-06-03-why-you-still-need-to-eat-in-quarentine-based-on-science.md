@@ -10,6 +10,10 @@ layouts_gallery:
   - url: /assets/images/post-photos/2020-06-03-why-you-still-need-to-eat-in-quarentine-based-on-science/BMR 50-80%.png
     image_path: /assets/images/post-photos/2020-06-03-why-you-still-need-to-eat-in-quarentine-based-on-science/BMR 50-80%.png
 categories:
+layouts_gallery_2:
+  - url: /assets/images/post-photos/2020-06-03-why-you-still-need-to-eat-in-quarentine-based-on-science/sign.jpg
+    image_path: /assets/images/post-photos/2020-06-03-why-you-still-need-to-eat-in-quarentine-based-on-science/sign small.jpg
+categories:
   - Quarantine
 tags:
   - quarantine
@@ -56,6 +60,7 @@ So you're telling me that I burn calories sitting on my couch and eating?! Win! 
 
 So yes, you do burn calories doing these two effortless activities. In fact, BMR makes up the majority of the energy that is used at 50-80%! Of course I think exercise is so important for our physical and mental wellbeing, but the point is, of you aren't able to achieve as intense workouts as you once did in the gym/are not moving as much, your body STILL NEEDS calories and food to function. To keep you alive! 
 
+{% include gallery id="layouts_gallery_2" %}
 
 Please do not give into diet culture and please keep fueling your body properly. It is essential for maintaining a healthy immune system! Eat when you are hungry, stop when you are full. Eat for your health, but also eat for your soul.
 
