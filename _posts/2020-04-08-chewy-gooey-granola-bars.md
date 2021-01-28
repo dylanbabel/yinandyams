@@ -12,6 +12,8 @@ layouts_gallery:
     alt: "Bars Stacked on a plate"
   - url: /assets/images/post-photos/2020-04-08-chewy-gooey-granola-bars/in hand.png
     image_path: /assets/images/post-photos/2020-04-08-chewy-gooey-granola-bars/in hand small.png
+toc: true
+toc_sticky: true
 categories:
   - Recipies
 tags:
