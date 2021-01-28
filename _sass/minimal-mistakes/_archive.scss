@@ -158,18 +158,21 @@
 
     &:nth-child(2n) {
       clear: both;
-      margin-left: 0;
+      margin-top: 0.5em;
+      margin-left: 1em;
     }
   }
 
 
   @include breakpoint($medium) {
-    margin-left: 0; /* override margin*/
-    margin-right: 0; /* override margin*/
+    margin-left: 1em; /* override margin*/
+    margin-right: 1em; /* override margin*/
     width: span(1 of 2);
 
     &:nth-child(2n) {
-      clear: none;
+      clear: both;
+      margin-top:0.5 em;
+      margin-left: 1em;
     }
   }
 
