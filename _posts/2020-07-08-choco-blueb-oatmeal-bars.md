@@ -11,6 +11,8 @@ layouts_gallery:
     image_path: /assets/images/post-photos/2020-07-08-choco-blueb-oatmeal-bars/stuff in bowl small.jpeg
   - url: /assets/images/post-photos/2020-07-08-choco-blueb-oatmeal-bars/bars.jpeg
     image_path: /assets/images/post-photos/2020-07-08-choco-blueb-oatmeal-bars/bars small.jpeg
+toc: true
+toc_sticky: true
 categories:
   - Recipies
 tags:
