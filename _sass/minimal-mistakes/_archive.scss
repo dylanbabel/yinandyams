@@ -157,9 +157,9 @@
     width: span(1 of 2);
 
     &:nth-child(2n) {
-      clear: none;
+      clear: both;
       margin-top: 0.5em;
-      margin-left: 0.75em;
+      margin-left: 0.5em;
     }
   }
 
@@ -172,7 +172,7 @@
     &:nth-child(2n) {
       clear: both;
       margin-top:0.5 em;
-      margin-left: 1em;
+      margin-left: 0.5em;
     }
   }
 
