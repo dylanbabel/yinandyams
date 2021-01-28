@@ -159,7 +159,7 @@
     &:nth-child(2n) {
       clear: none;
       margin-top: 0.5em;
-      margin-left: 1em;
+      margin-left: 0.75em;
     }
   }
 
@@ -205,11 +205,11 @@
 
   .archive__item-teaser {
     @include breakpoint($small) {
-      max-height: 275px;
+      max-height: 300px;
     }
 
     @include breakpoint($medium) {
-      max-height: 195px;
+      max-height: 220px;
     }
   }
 }
