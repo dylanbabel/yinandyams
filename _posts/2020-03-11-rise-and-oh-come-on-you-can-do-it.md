@@ -4,17 +4,17 @@ author: HC
 header:
   overlay_color: "#F5DCE1"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/post-photos/Coffee Beans.png
-  teaser: "/assets/images/post-photos/Coffee Beans.png"
+  overlay_image: /assets/images/post-photos/2020-03-11-rise-and-oh-come-on-you-can-do-it/Coffee Beans.png
+  teaser: "/assets/images/post-photos/2020-03-11-rise-and-oh-come-on-you-can-do-it/Coffee Beans.png"
 layouts_gallery:
-  - url: /assets/images/post-photos/coffee.png
-    image_path: /assets/images/post-photos/coffee.png
+  - url: /assets/images/post-photos/2020-03-11-rise-and-oh-come-on-you-can-do-it/coffee.png
+    image_path: /assets/images/post-photos/2020-03-11-rise-and-oh-come-on-you-can-do-it/coffee.png
 layouts_gallery_2:
-  - url: /assets/images/post-photos/alarm.png
-    image_path: /assets/images/post-photos/alarm small.png
+  - url: /assets/images/post-photos/2020-03-11-rise-and-oh-come-on-you-can-do-it/alarm.png
+    image_path: /assets/images/post-photos/2020-03-11-rise-and-oh-come-on-you-can-do-it/alarm small.png
 layouts_gallery_3:
-  - url: /assets/images/post-photos/head stand.png
-    image_path: /assets/images/post-photos/head stand small.png
+  - url: /assets/images/post-photos/2020-03-11-rise-and-oh-come-on-you-can-do-it/head stand.png
+    image_path: /assets/images/post-photos/2020-03-11-rise-and-oh-come-on-you-can-do-it/head stand small.png
 categories:
   - Lifestyle
 tags:
