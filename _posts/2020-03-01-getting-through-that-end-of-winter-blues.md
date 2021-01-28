@@ -25,7 +25,8 @@ tags:
 
 Winter is loooong. Especially in Canada. I know that we are reaching the end of the days of grey skies and mad dashes between the toasty car and front door, but I find the last stretch of winter can sometimes be the toughest. So, even though spring is soon on its way, I thought I would discuss some of my tips to start thinking about for next winter (and the end of this winter), especially if you struggle with SAD.
 
-{% include gallery id="layouts_gallery" %}{: .align-left} 
+{% include gallery id="layouts_gallery" %}{: .align-left}
+
 ## 1 - Get outside.
 One of the major changes I made this past winter was getting outside for regular walks. I stopped driving to school every morning of the week and bundled up for the 20min walk instead. This required me to be more organized in the mornings to give myself this time, but it has definitely been worth it. Walking outside helped me to adjust to the cold and made me feel so much more awake (especially if I caught the sun). It also gave me a time to reflect and almost meditate as I had 20mins to myself to just think or listen to a podcast. 
 
