@@ -33,7 +33,7 @@ After graduating high school I left for the beautiful ocean of Nova Scotia, my s
 
 After many years of work, very supportive family, friends and boyfriend, I am finally finding peace and balance with food and my life. I hope to one day help others who struggle with disordered eating to heal their relationships with food and teach people how to lead their lives with a little bit of yin and a heck of a lot of yams (because they are definitely a superior food).
 
-{% include gallery id="layouts_gallery_2" %}{: .align.center}
+{% include gallery id="layouts_gallery_2" %}{: .align_center}
 
 Now, I am in my third year of university with a passion for photography, fitness, food, and adventure, and in need of a way to combine my interests into one fabulous project...and that is where you and this blog come in! 
 
