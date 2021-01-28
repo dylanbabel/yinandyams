@@ -4,8 +4,8 @@ author: HC
 header:
   overlay_color: "#F5DCE1"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/post-photos/2020-03-11-rise-and-oh-come-on-you-can-do-it/snow/jpg
-  teaser: "/assets/images/post-photos/2020-03-11-rise-and-oh-come-on-you-can-do-it/snow.jpg"
+  overlay_image: /assets/images/post-photos/2020-03-01-getting-through-that-end-of-winter-blues/snow/jpg
+  teaser: "/assets/images/post-photos/2020-03-01-getting-through-that-end-of-winter-blues/snow.jpg"
 layouts_gallery:
   - url: /assets/images/post-photos/2020-03-01-getting-through-that-end-of-winter-blues/person.jpg
     image_path: /assets/images/post-photos/2020-03-01-getting-through-that-end-of-winter-blues/person.jpg
