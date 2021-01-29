@@ -66,6 +66,11 @@ For the base:
 
 ***
 
+
+{% include gallery id="layouts_gallery" %}
+
+***
+
 ### ***Recipe notes:***
 
 [^1]: for walnuts, pecans, peanuts OR seeds such as pumpkin seeds
@@ -73,5 +78,3 @@ For the base:
 [^2]: for any kind of dried fruit or berry such as cranberries or raisins OR for a bar that is
 
 [^3]: less sweet substitute with some seeds or more nuts swap with a vegan alternative lice rice syrup to veganise
-
-{% include gallery id="layouts_gallery" %}
