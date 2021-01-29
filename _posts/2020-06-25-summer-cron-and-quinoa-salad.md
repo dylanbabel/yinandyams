@@ -63,3 +63,4 @@ This recipe is sweet, tangy, and light. It pairs perfectly with barbecue or make
 
 {% include gallery id="layouts_gallery" %}
 
+*Photo credit: Hannah Chapeskie*
