@@ -280,7 +280,6 @@ defaults:
       read_time: true
       comments: true
       share: true
-      date: true
       related: true
       sidebar:
         nav: "categories"
