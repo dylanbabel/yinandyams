@@ -64,9 +64,9 @@ So, if you are looking for an easy, relatively cheap and guilt free granola that
 ***
 
 *Recipe notes:*<br>
-_*could sub for shredded coconut, but the granola will not be as chunky. Also keep in mind that sweetened shredded coconut will contain refined sugar._ <br>
-_**could sub for cacao powder for extra antioxidants and a health boost!_ <br>
-_***to keep this recipe vegan and dairy free, check chocolate ingredients for milk._
+_ *could sub for shredded coconut, but the granola will not be as chunky. Also keep in mind that sweetened shredded coconut will contain refined sugar._ <br>
+_ **could sub for cacao powder for extra antioxidants and a health boost!_ <br>
+_ ***to keep this recipe vegan and dairy free, check chocolate ingredients for milk._
 
 ***
 
