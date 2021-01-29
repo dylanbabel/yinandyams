@@ -36,11 +36,11 @@ As I have said before, making your own snacks at home (especially ones like bars
 
 For the base:
 * 2 cups rolled oats
-* 1/2 cup roughly chopped almonds*
+* 1/2 cup roughly chopped almonds[^1]
 * 1/4 cup dark chocolate chips
-* 1/4 cup dried blueberries roughly chopped**
+* 1/4 cup dried blueberries roughly chopped[^2]
 * 2 tbsp chia seeds
-* 1/3 cup honey***
+* 1/3 cup honey[^3]
 * 2 tbsp almond butter
 * 1 tbsp vanilla extract
 * 1 tbsp melted coconut oil
@@ -68,10 +68,10 @@ For the base:
 
 ### ***Recipe notes:***
 
-*&ast;swap for walnuts, pecans, peanuts OR seeds such as pumpkin seeds*
+[^1]: for walnuts, pecans, peanuts OR seeds such as pumpkin seeds
 
-*&ast;&ast;swap for any kind of dried fruit or berry such as cranberries or raisins OR for a bar that is*
+[^2]: for any kind of dried fruit or berry such as cranberries or raisins OR for a bar that is
 
-*&ast;&ast;&ast;less sweet substitute with some seeds or more nuts swap with a vegan alternative lice rice syrup to veganise*
+[^3]: less sweet substitute with some seeds or more nuts swap with a vegan alternative lice rice syrup to veganise
 
 {% include gallery id="layouts_gallery" %}
