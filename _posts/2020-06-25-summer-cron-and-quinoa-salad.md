@@ -8,9 +8,10 @@ header:
   teaser: "/assets/images/post-photos/2020-06-25-summer-cron-and-quinoa-salad/header.jpeg"
 layouts_gallery:
   - url: /assets/images/post-photos/2020-06-25-summer-cron-and-quinoa-salad/salad in bowl.jpeg
-    image_path: /assets/images/2020-06-25-summer-cron-and-quinoa-salad/salad in bowl.jpeg
+    image_path: /assets/images/post-photos/2020-06-25-summer-cron-and-quinoa-salad/salad in bowl small.jpeg
+  
   - url: /assets/images/post-photos/2020-06-25-summer-cron-and-quinoa-salad/salad.jpeg
-    image_path: /assets/images/2020-06-25-summer-cron-and-quinoa-salad/salad.jpeg
+    image_path: /assets/images/post-photos/2020-06-25-summer-cron-and-quinoa-salad/salad small.jpeg
 toc: true
 toc_sticky: true
 categories:
@@ -61,5 +62,4 @@ This recipe is sweet, tangy, and light. It pairs perfectly with barbecue or make
 5. Once cool, add the quinoa to the bowl along with the dressing and gently combine.
 6. Serve right away or place in the fridge to marinate for at least 1hr. 
 
-{% include gallery is="layouts_gallery" %}
 {% include gallery id="layouts_gallery" %}
