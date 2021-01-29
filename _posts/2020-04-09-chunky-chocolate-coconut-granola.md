@@ -70,4 +70,4 @@ _ ***to keep this recipe vegan and dairy free, check chocolate ingredients for m
 
 ***
 
-{include gallery id="layouts_gallery"}
+{% include gallery id="layouts_gallery" %}
