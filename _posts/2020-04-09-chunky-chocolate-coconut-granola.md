@@ -33,10 +33,46 @@ So, if you are looking for an easy, relatively cheap and guilt free granola that
 
 ## Ingredients:
 
-* 
+* 1 cup rolled oats
+* 1 tbsp chia seeds
+* 1/2 cup chopped nuts ( I used 1/4 cup almonds and 1/4 cup walnuts)
+* 1/2 cup coconut chips*
+* 2 tbsps cocoa powder**
+* 1 tbsp melted coconut oil 
+* 1/2 cup honey OR maple syrup 
+* dark chocolate chips or chopped dark chocolate bar***
+* dairy free milk of choice 
+* salt 
 
 ***
 
 ## Directions:
 
-1. 
+1. Preheat oven to 350C. 
+
+Line a baking tray with parchment paper. 
+
+Add oats, chopped nuts, coconut chips, chia seeds, cocoa powder, and a pinch of salt to a medium bowl. Stir to combine. 
+
+Add melted coconut oil and honey OR maple syrup to dry ingredients. Stir to combine.
+
+If the mixture is too dry, add a splash of dairy free milk until the mixture is thoroughly moistened. 
+
+Poor mixture onto the baking tray. With a metal spoon, flatten the mixture into a sheet (like a big granola pancake!) and press firmly.
+
+Bake for 10 mins. 
+
+After 10 mins, pull the granola out and gently break the granola into smaller chunks with a spoon. Sprinkle dark chocolate on top of the granola (as much as you prefer), in addition to a sprinkle of salt.
+
+Bake for 5 mins
+
+Remove from oven. If the granola seems hard when tapped with a metal spoon, it is done. 
+
+Let cool. Make sure not to mix the granola as it cools or else the chunks will break.
+
+Once cool, break granola chunks into your size of preference. Store in airtight container for up to 2 weeks. 
+
+***
+
+*Recipe notes:*
+* *could sub for shredded coconut, but the granola will not be as chunky. Also keep in mind that sweetened shredded coconut will contain refined sugar.*
