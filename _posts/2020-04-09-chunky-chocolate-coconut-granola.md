@@ -64,4 +64,4 @@ So, if you are looking for an easy, relatively cheap and guilt free granola that
 ***
 
 *Recipe notes:*
-* *could sub for shredded coconut, but the granola will not be as chunky. Also keep in mind that sweetened shredded coconut will contain refined sugar.*
+**could sub for shredded coconut, but the granola will not be as chunky. Also keep in mind that sweetened shredded coconut will contain refined sugar.*
