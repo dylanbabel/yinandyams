@@ -8,9 +8,9 @@ header:
   teaser: "/assets/images/post-photos/2020-06-25-summer-cron-and-quinoa-salad/header.jpeg"
 layouts_gallery:
   - url: /assets/images/post-photos/2020-06-25-summer-cron-and-quinoa-salad/salad in bowl.jpeg
-    image_path: /assets/images/2020-06-25-summer-cron-and-quinoa-salad/salad in bowl small.jpeg
+    image_path: /assets/images/2020-06-25-summer-cron-and-quinoa-salad/salad in bowl.jpeg
   - url: /assets/images/post-photos/2020-06-25-summer-cron-and-quinoa-salad/salad.jpeg
-    image_path: /assets/images/2020-06-25-summer-cron-and-quinoa-salad/salad small.jpeg
+    image_path: /assets/images/2020-06-25-summer-cron-and-quinoa-salad/salad.jpeg
 toc: true
 toc_sticky: true
 categories:
