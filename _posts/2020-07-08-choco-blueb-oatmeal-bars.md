@@ -23,7 +23,6 @@ tags:
 
 Another delicious granola bar recipe to add to your repertoire! These bars can be made with some swaps to fit what you have in your own cupboard and your taste. I found these bars a bit sweeter and more decadent than what I usually make (take this with a grain of salt as I do not eat very much processed sugar so find things a lot sweeter than other people!) and they were a huge hit in my apartment of and two guys (who love their cliff and vector bars) and m
 
-
 As I have said before, making your own snacks at home (especially ones like bars that come wrapped individually) is so awesome for your health, blood sugar, wallet, and the environment! Making your own snacks allows you to control what ingredients you put into your body including refined sugar and preservatives. Best of all, you typically create less waste overall...so get on the snack making train!
 
 ***

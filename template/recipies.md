@@ -37,3 +37,13 @@ tags:
 ## Directions:
 
 1. 
+
+***
+
+{% include gallery id="layouts_gallery" %}
+
+***
+
+### ***Recipe notes:***
+
+[^1]:
