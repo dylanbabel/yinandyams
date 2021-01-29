@@ -72,6 +72,6 @@ For the base:
 
 ***swap for any kind of dried fruit or berry such as cranberries or raisins OR for a bar that is*
 
-****less sweet substitute with some seeds or more nuts swap with a vegan alternative lice rice syrup to veganise*
+_***less sweet substitute with some seeds or more nuts swap with a vegan alternative lice rice syrup to veganise_
 
 {% include gallery id="layouts_gallery" %}
