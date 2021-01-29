@@ -50,19 +50,12 @@ Granola bars are such an awesome snack or addition to your breakfast! However, i
 ## Directions:
 
 1. Set oven to 350C.
-
 2. Mix together oats, chia, nuts, seeds, cranberries, chocolate chips, cinnamon and salt (to taste) in a medium bowl (feel free to customize with whatever nuts, seeds, and mixing you like!).
-
 3. Whisk egg in a separate bowl and add to dry ingredients along with peanut butter and honey. Mix until combined. 
-
 4. Add almond milk and stir until mixture is fully moistened and sticks together (I used about 1/2 a cup).
-
 5. Grease baking dish.
-
 6. Pour mixture into baking dish and press firmly with a spoon or hands. Sprinkle with extra cinnamon and sea salt. 
-
 7. Bake for 10-15mins (watching closely) until the edges and top begin to brown.
-
 8. Let cool for up to an hour before cutting into bars and eating (it will fall apart if you cut too early!).
 
 Recipe Notes
