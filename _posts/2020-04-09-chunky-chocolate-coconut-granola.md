@@ -8,9 +8,9 @@ header:
   teaser: "/assets/images/post-photos/2020-04-09-chunky-chocolate-coconut-granola/ball.jpeg"
 layouts_gallery:
   - url: /assets/images/post-photos/2020-04-09-chunky-chocolate-coconut-granola/stuff in bowl.jpeg
-    image_path: /assets/images/2020-04-09-chunky-chocolate-coconut-granola/stuff in bowl small.jpeg
+    image_path: /assets/images/post-photos/2020-04-09-chunky-chocolate-coconut-granola/stuff in bowl small.jpeg
   - url: /assets/images/post-photos/2020-04-09-chunky-chocolate-coconut-granola/bars.jpeg
-    image_path: /assets/images/2020-04-09-chunky-chocolate-coconut-granola/bars small.jpeg
+    image_path: /assets/images/post-photos/2020-04-09-chunky-chocolate-coconut-granola/bars small.jpeg
 toc: true
 toc_sticky: true
 categories:
@@ -67,3 +67,7 @@ So, if you are looking for an easy, relatively cheap and guilt free granola that
 _*could sub for shredded coconut, but the granola will not be as chunky. Also keep in mind that sweetened shredded coconut will contain refined sugar._ <br>
 _**could sub for cacao powder for extra antioxidants and a health boost!_ <br>
 _***to keep this recipe vegan and dairy free, check chocolate ingredients for milk._
+
+***
+
+{include gallery id="layouts_gallery"}
