@@ -17,6 +17,7 @@ categories:
   - Recipies
 tags:
   - recipies
+  - summer
 ---
 
 ***A light a refreshing grain salad for a barbecue side dish or a base for a delicious lunch!***
