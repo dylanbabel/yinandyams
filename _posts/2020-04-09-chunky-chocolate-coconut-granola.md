@@ -36,11 +36,11 @@ So, if you are looking for an easy, relatively cheap and guilt free granola that
 * 1 cup rolled oats
 * 1 tbsp chia seeds
 * 1/2 cup chopped nuts ( I used 1/4 cup almonds and 1/4 cup walnuts)
-* 1/2 cup coconut chips*
-* 2 tbsps cocoa powder**
+* 1/2 cup coconut chips[^1]
+* 2 tbsps cocoa powder[^2]
 * 1 tbsp melted coconut oil 
 * 1/2 cup honey OR maple syrup 
-* dark chocolate chips or chopped dark chocolate bar***
+* dark chocolate chips or chopped dark chocolate bar[^3]
 * dairy free milk of choice 
 * salt 
 
@@ -63,11 +63,16 @@ So, if you are looking for an easy, relatively cheap and guilt free granola that
 
 ***
 
-### ***Recipe notes:***<br>
-*could sub for shredded coconut, but the granola will not be as chunky. Also keep in mind that sweetened shredded coconut will contain refined sugar.<br>
-**could sub for cacao powder for extra antioxidants and a health boost!* <br>
-_***to keep this recipe vegan and dairy free, check chocolate ingredients for milk._
+{% include gallery id="layouts_gallery" %}
 
 ***
 
-{% include gallery id="layouts_gallery" %}
+### ***Recipe notes:***
+
+[^1]: could sub for shredded coconut, but the granola will not be as chunky. Also keep in mind that sweetened shredded coconut will contain refined sugar..
+
+[^2]: could sub for cacao powder for extra antioxidants and a health boost!
+
+[^3]: to keep this recipe vegan and dairy free, check chocolate ingredients for milk.
+
+
