@@ -50,7 +50,7 @@ So you're telling me that I burn calories sitting on my couch and eating?! Win! 
 
 {% include gallery id="layouts_gallery" alt="This is a pie chart of metabolic components: 5-10% Thermic, 20-30% Physical, and 50-80% BMR" %}
 
-So yes, you do burn calories doing these two effortless activities. In fact, BMR makes up the majority of the energy that is used at 50-80%! Of course I think exercise is so important for our physical and mental wellbeing, but the point is, of you aren't able to achieve as intense workouts as you once did in the gym/are not moving as much, your body STILL NEEDS calories and food to function. To keep you alive! {% include gallery id="layouts_gallery_2" %}{: .align-right}
+So yes, you do burn calories doing these two effortless activities. In fact, BMR makes up the majority of the energy that is used at 50-80%! Of course I think exercise is so important for our physical and mental wellbeing, but the point is, of you aren't able to achieve as intense workouts as you once did in the gym/are not moving as much, your body STILL NEEDS calories and food to function. To keep you alive! {% include gallery id="layouts_gallery_2" %}{: .align-right} <br>
 
 Please do not give into diet culture and please keep fueling your body properly. It is essential for maintaining a healthy immune system! Eat when you are hungry, stop when you are full. Eat for your health, but also eat for your soul.
 
