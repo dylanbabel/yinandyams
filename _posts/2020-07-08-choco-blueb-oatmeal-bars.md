@@ -28,7 +28,7 @@ As I have said before, making your own snacks at home (especially ones like bars
 
 ***
 
-# ***~Choco Blueb Oatmeal Bars Recipe~***
+# ***~ {{ page.title }} Recipe ~***
 
 ***
 
