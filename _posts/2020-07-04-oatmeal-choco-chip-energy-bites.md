@@ -4,7 +4,7 @@ author: HC
 header:
   overlay_color: "#F5DCE1"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/post-photos/page.name/ball.jpeg
+  overlay_image: /assets/images/post-photos/{{page.name}}/ball.jpeg
   teaser: "/assets/images/post-photos/2020-07-04-oatmeal-choco-chip-energy-bites/ball.jpeg"
 layouts_gallery:
   - url: /assets/images/post-photos/2020-07-04-oatmeal-choco-chip-energy-bites/stuff in bowl.jpeg
