@@ -25,7 +25,7 @@ I have never been a huge fan of energy balls. They never seem to turn out quite 
 
 ***
 
-# *** {{ post.title }} Recipe ***
+# ***~ {{ post.title }} Recipe ~***
 
 ***
 

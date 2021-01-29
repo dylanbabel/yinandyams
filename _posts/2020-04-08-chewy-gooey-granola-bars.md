@@ -26,7 +26,7 @@ Granola bars are such an awesome snack or addition to your breakfast! However, i
 
 ***
 
-# **~ Chewy, Gooey, Granola Bars Recipe ~**
+# ***~ Chewy, Gooey, Granola Bars Recipe ~***
 
 ***
 
