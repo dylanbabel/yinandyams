@@ -112,7 +112,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/YinYams-107679257599385/?modal=admin_todo_tour"
+      url: "https://www.facebook.com/hannah.chapeskie"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
@@ -132,15 +132,15 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope-square"
+      url: "mailto:support@yinandyams.tk"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: https://instagram.com/hannahchapeskie
+      url: https://instagram.com/yinandyams
 
 
 # Reading Files
