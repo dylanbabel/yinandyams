@@ -40,9 +40,9 @@ Granola bars are such an awesome snack or addition to your breakfast! However, i
 * 1/4 cup dark chocolate chips
 * 1/2 tbsp cinnamon
 * sea salt 
-* 1 egg*
+* 1 egg[^1]
 * 1/4 cup peanut butter 
-* 2 tbsp honey**
+* 2 tbsp honey[^2]
 * about 1/2 cup almond milk 
 
 ***
@@ -58,10 +58,15 @@ Granola bars are such an awesome snack or addition to your breakfast! However, i
 7. Bake for 10-15mins (watching closely) until the edges and top begin to brown.
 8. Let cool for up to an hour before cutting into bars and eating (it will fall apart if you cut too early!).
 
-Recipe Notes
+***
 
-*sub with flax egg for vegan
-
-**sub with maple syrup for vegan 
 {% include gallery id="layouts_gallery" %}
+
+***
+
+### ***Recipe Notes***
+
+[^1]: sub with flax egg for vegan
+
+[^2]: sub with maple syrup for vegan 
 
