@@ -34,13 +34,19 @@ This recipe is sweet, tangy, and light. It pairs perfectly with barbecue or make
 
 ## Ingredients:
 
+### Salad
+
 * 2 cups of corn
 * 1 cup red onion diced
 * 1 cup red bell pepper diced
 * 1 cup dry quinoa
 * 1 cup feta cheese
-* **Optional:** diced cilantro
+* *Optional:* diced cilantro
 
+### Dressing
+
+* 4 tbsp lime juice
+* 
 ***
 
 ## Directions:
