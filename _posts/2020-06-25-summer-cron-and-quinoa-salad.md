@@ -46,9 +46,17 @@ This recipe is sweet, tangy, and light. It pairs perfectly with barbecue or make
 ### Dressing
 
 * 4 tbsp lime juice
-* 
+* 2 tbsp olive oil
+* 3 tbsp honey
+* Cracked pepper to taste
+
 ***
 
 ## Directions:
 
-1. 
+1. Add 1 cup of dried quinoa to a pot with 2 cups of water. Place pot on stove on boil. Once boiling cover with a lid and turn to low. The quinoa should take around 20 mins to cook. Check by gently sticking a fork in the quinoa and looking for remaining water at the bottom. When there is no water left and the quinoa has become fluffy, it is finished.
+2. Remove pot from the heat and gently fluff with a fork. Place the quinoa in the fridge to cool. (If short on time, place the quinoa in a bowl and in the freezer stirring frequently).
+3. While the quinoa cools, add corn, onion, red pepper, and feta cheese (and the optional cilantro) to a large bowl.
+4. In a separate bowl, combine lime juice, olive oil, honey, and pepper to taste to make the dressing.
+5. Once cool, add the quinoa to the bowl along with the dressing and gently combine.
+6. Serve right away or place in the fridge to marinate for at least 1hr. 
