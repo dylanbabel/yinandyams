@@ -66,7 +66,7 @@ For the base:
 
 ***
 
-###***Recipe notes:***
+### ***Recipe notes:***
 
 **swap for walnuts, pecans, peanuts OR seeds such as pumpkin seeds*
 
