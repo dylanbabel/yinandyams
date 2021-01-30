@@ -8,10 +8,10 @@ header:
   teaser: "/assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/header.jpg"
 layouts_gallery:
   - url: /assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/0.jpg
-    image_path: /assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/0.jpg
+    image_path: /assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/0 small.jpg
 layouts_gallery_2:
-  - url: /assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/1.png
-    image_path: /assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/1.png
+  - url: /assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/1.jpg
+    image_path: /assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/1 small.jpg
 layouts_gallery_3:
   - url: /assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/2.jpg
     image_path: /assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/2 small.jpg
@@ -53,6 +53,8 @@ For more information click <a href="https://www.kingarthurflour.com/recipes/feed
 
 # 3 - Flour Type
 I was very confused as to what the "rules" were around flour when it came to sourdough. Here are a few questions I had and the answers I have found:
+
+{include gallery id="layouts_gallery"}{: .align-right}
 
 ## *Do I have to bake with the same flour that I feed my starter with?*
 
