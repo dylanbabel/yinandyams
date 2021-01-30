@@ -1,5 +1,5 @@
 ---
-title: "Yin&Yams Announcement!"
+title: "For Starters - Sourdough Tips for Beginners"
 author: HC
 header:
   overlay_color: "#F5DCE1"
