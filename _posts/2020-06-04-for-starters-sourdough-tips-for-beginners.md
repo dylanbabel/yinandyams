@@ -15,6 +15,8 @@ layouts_gallery_2:
 layouts_gallery_3:
   - url: /assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/2.jpg
     image_path: /assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/2 small.jpg
+toc: true
+toc_sticky: true
 categories:
   - Sourdough
   - Announcements
