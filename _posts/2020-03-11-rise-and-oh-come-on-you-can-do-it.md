@@ -15,10 +15,14 @@ layouts_gallery_2:
 layouts_gallery_3:
   - url: /assets/images/post-photos/2020-03-11-rise-and-oh-come-on-you-can-do-it/head stand.png
     image_path: /assets/images/post-photos/2020-03-11-rise-and-oh-come-on-you-can-do-it/head stand small.png
+toc: true
+toc_sticky: true
 categories:
   - Lifestyle
+  - Mental Health
 tags:
   - lifestyle
+  - mental health
 ---
 
 *__"BEEP...BEEP...BEEP". Your alarm goes off. You told yourself you would wake up at 6AM, go to the gym, and finish your work before starting your day. You hit snooze. An extra 10 minutes couldn't hurt. You hit snooze again...and again...and suddenly, its 8AM...__*
