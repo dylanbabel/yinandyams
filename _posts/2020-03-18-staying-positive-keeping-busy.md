@@ -34,7 +34,9 @@ Another big concern for some of us, especially the community that makes up my fo
 
 I will also be taking this time to appreciate the beautiful spring weather that has arrived in Nova Scotia and exploring some outdoor spots that I have never had the chance to with school keeping me busy. My roommates and I are planning some hikes, outdoor climbing, and beach combing to keep us busy and moving! 
 {% include gallery id="layouts_gallery_2" %}{: .align-right}
+
 <br>
+
 Finally, I will be spending a lot of time working on the things that I love. My journal will be getting lots of use again, and my pile of books to read will start to shrink (p.s. if you have any good recommendations please message me!). My guitar that I pick up every month or so will no longer be dusty, and my paint brushes will be out on display drying from many painting sessions. My sneakers will be muddy from hikes, my oven warm from baking, and my friends just a little bit closer (while still practicing social distancing!!!  ;)). 
 
 Stay safe, and stay informed. Never spread unreliable information and reach out to those around you. We will get through these tough times and life will get back to normal again! It just might not be the same normal that we were once used to. xoxo
