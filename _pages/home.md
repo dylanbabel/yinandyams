@@ -13,3 +13,12 @@ header:
   caption: "Property of Yin & Yams"
   excerpt: ""
 ---
+
+
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+<script>
+  hbspt.forms.create({
+	portalId: "7666544",
+	formId: "f8c8355a-9246-44d4-99f3-6b4d8423d552"
+});
+</script>
