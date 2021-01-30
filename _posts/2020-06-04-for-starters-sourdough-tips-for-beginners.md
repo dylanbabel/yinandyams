@@ -92,7 +92,7 @@ You may have looked at some sourdough recipes and noticed that they take hours a
 
 My biggest tip is to look at the recipe before you get started, maybe even the day before, and get an idea of what is happening when and for how long. Personally, I like to look for any proofing times (the long period/s where the dough sits to rise) and kneading periods. If there is a proofing period that can go for 8+hrs, I will plan my bake so that this longer proof lands when I am sleeping and I will continue the bread the next day.
 
-{% include gallery id="layouts_gallery" %}{: .align-left}
+{% include gallery id="layouts_gallery_3" %}{: .align-left}
 
 Having a baking schedule that makes sense and is natural takes a lot of practice. I recommend sticking with one or two recipes and getting into a good flow with them before expanding your repitoire. By sticking to the same recipe you will also be able to learn more about your potential mistakes as you experience variations from loaf to loaf.
 
