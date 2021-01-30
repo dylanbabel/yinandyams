@@ -4,8 +4,8 @@ author: HC
 header:
   overlay_color: "#F5DCE1"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/post-photos/2020-03-18-staying-positive-keeping-busy/snowy.jpg
-  teaser: "/assets/images/post-photos/2020-03-18-staying-positive-keeping-busy/snowy.jpg"
+  overlay_image: /assets/images/post-photos/2020-03-18-staying-positive-keeping-busy/header.jpg
+  teaser: "/assets/images/post-photos/2020-03-18-staying-positive-keeping-busy/header.jpg"
 layouts_gallery:
   - url: /assets/images/post-photos/2020-03-18-staying-positive-keeping-busy/person.jpg
     image_path: /assets/images/post-photos/2020-03-18-staying-positive-keeping-busy/person small.jpg
