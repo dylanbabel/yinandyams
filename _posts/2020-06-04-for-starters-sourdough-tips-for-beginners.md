@@ -76,6 +76,8 @@ When it comes to sourdough, I personally have found working with white AP flour 
 
 # 4 - Peak Starter Use?
 
+{% include gallery id="layouts_gallery_2" %}{: .align-right}
+
 I have my starter, I fed my starter, can I bake now? Welllll...in order to get the best possible results, it is important to use your starter when it is at its peak. This window of opportunity is between 4 and 12 hours after feeding when it has risen to its peak level and has bubbles on the surface. 
 
 A great way to ensure your starter is at its peak is to use the float test:
@@ -89,6 +91,8 @@ A great way to ensure your starter is at its peak is to use the float test:
 You may have looked at some sourdough recipes and noticed that they take hours and hours to complete. Or maybe you didn't and got half way through a recipe realizing that you will end up baking the bread at 2AM. 
 
 My biggest tip is to look at the recipe before you get started, maybe even the day before, and get an idea of what is happening when and for how long. Personally, I like to look for any proofing times (the long period/s where the dough sits to rise) and kneading periods. If there is a proofing period that can go for 8+hrs, I will plan my bake so that this longer proof lands when I am sleeping and I will continue the bread the next day.
+
+{% include gallery id="layouts_gallery" %}{: .align-left}
 
 Having a baking schedule that makes sense and is natural takes a lot of practice. I recommend sticking with one or two recipes and getting into a good flow with them before expanding your repitoire. By sticking to the same recipe you will also be able to learn more about your potential mistakes as you experience variations from loaf to loaf.
 
