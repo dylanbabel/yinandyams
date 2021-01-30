@@ -13,6 +13,8 @@ categories:
 layouts_gallery_2:
   - url: /assets/images/post-photos/2020-06-03-why-you-still-need-to-eat-in-quarentine-based-on-science/sign.jpg
     image_path: /assets/images/post-photos/2020-06-03-why-you-still-need-to-eat-in-quarentine-based-on-science/sign small.jpg
+toc: true
+toc_sticky: true
 categories:
   - Quarantine
 tags:
