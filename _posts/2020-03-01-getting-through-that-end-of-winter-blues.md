@@ -15,6 +15,8 @@ layouts_gallery_2:
 layouts_gallery_3:
   - url: /assets/images/post-photos/2020-03-01-getting-through-that-end-of-winter-blues/room.jpg
     image_path: /assets/images/post-photos/2020-03-01-getting-through-that-end-of-winter-blues/room small.jpg
+toc: true
+toc_sticky: true
 categories:
   - Mental Health
   - Lifestyle
