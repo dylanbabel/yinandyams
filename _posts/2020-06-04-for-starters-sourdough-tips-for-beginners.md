@@ -54,7 +54,7 @@ For more information click <a href="https://www.kingarthurflour.com/recipes/feed
 # 3 - Flour Type
 I was very confused as to what the "rules" were around flour when it came to sourdough. Here are a few questions I had and the answers I have found:
 
-{include gallery id="layouts_gallery"}{: .align-right}
+{% include gallery id="layouts_gallery" %}{: .align-right}
 
 ## *Do I have to bake with the same flour that I feed my starter with?*
 
