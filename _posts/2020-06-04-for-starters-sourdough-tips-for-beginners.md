@@ -7,8 +7,8 @@ header:
   overlay_image: /assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/header.jpg
   teaser: "/assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/header.jpg"
 layouts_gallery:
-  - url: /assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/0.JPG
-    image_path: /assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/0.JPG
+  - url: /assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/0.jpg
+    image_path: /assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/0.jpg
 layouts_gallery_2:
   - url: /assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/1.png
     image_path: /assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/1.png
