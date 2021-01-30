@@ -237,7 +237,7 @@
     }
     
     @include breakpoint($x-large) {
-      max-height: 400px;
+      max-height: 200px;
     }
     
     @include breakpoint($max-width) {
