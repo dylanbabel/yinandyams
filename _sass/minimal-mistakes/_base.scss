@@ -13,7 +13,9 @@ html {
   width: 0px;
   background: transparent;
 }
-
+::-webkit-scrollbar-thumb {
+  background: $footer-background-color;
+}
 
 body {
   margin: 0;
