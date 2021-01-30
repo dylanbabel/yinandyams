@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Yin&Yams!"
+title: "Yin&Yams Announcement!"
 author: HC
 header:
   overlay_color: "#F5DCE1"
