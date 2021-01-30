@@ -94,8 +94,6 @@ My biggest tip is to look at the recipe before you get started, maybe even the d
 
 {% include gallery id="layouts_gallery_3" %}{: .align-left}
 
-<br>
-
 Having a baking schedule that makes sense and is natural takes a lot of practice. I recommend sticking with one or two recipes and getting into a good flow with them before expanding your repitoire. By sticking to the same recipe you will also be able to learn more about your potential mistakes as you experience variations from loaf to loaf.
 
 Happy Baking and do not give up! Keep experimenting, researching, and eating! I know you can do it! 
