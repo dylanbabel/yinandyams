@@ -7,14 +7,14 @@ header:
   overlay_image: /assets/images/post-photos/2020-05-11-yin-&-yams-announcement/header.jpg
   teaser: "/assets/images/post-photos/2020-05-11-yin-&-yams-announcement/header.jpg"
 layouts_gallery:
-  - url: /assets/images/post-photos/2020-05-11-yin-&-yams-announcement/0.png
-    image_path: /assets/images/post-photos/2020-05-11-yin-&-yams-announcement/0.png
+  - url: /assets/images/post-photos/2020-05-11-yin-&-yams-announcement/0.jpg
+    image_path: /assets/images/post-photos/2020-05-11-yin-&-yams-announcement/0.jpg
 layouts_gallery_2:
   - url: /assets/images/post-photos/2020-05-11-yin-&-yams-announcement/1.png
     image_path: /assets/images/post-photos/2020-05-11-yin-&-yams-announcement/1.png
 layouts_gallery_3:
-  - url: /assets/images/post-photos/2020-05-11-yin-&-yams-announcement/2.png
-    image_path: /assets/images/post-photos/2020-05-11-yin-&-yams-announcement/2 small.png
+  - url: /assets/images/post-photos/2020-05-11-yin-&-yams-announcement/2.jpg
+    image_path: /assets/images/post-photos/2020-05-11-yin-&-yams-announcement/2 small.jpg
 categories:
   - Sourdough
   - Announcements
