@@ -7,11 +7,11 @@ header:
   overlay_image: /assets/images/post-photos/2020-03-18-staying-positive-keeping-busy/header.jpg
   teaser: "/assets/images/post-photos/2020-03-18-staying-positive-keeping-busy/header.jpg"
 layouts_gallery:
-  - url: /assets/images/post-photos/2020-03-18-staying-positive-keeping-busy/person.jpg
-    image_path: /assets/images/post-photos/2020-03-18-staying-positive-keeping-busy/person small.jpg
+  - url: /assets/images/post-photos/2020-03-18-staying-positive-keeping-busy/1.jpg
+    image_path: /assets/images/post-photos/2020-03-18-staying-positive-keeping-busy/1 small.jpg
 layouts_gallery_2:
-  - url: /assets/images/post-photos/2020-03-18-staying-positive-keeping-busy/meal.jpg
-    image_path: /assets/images/post-photos/2020-03-18-staying-positive-keeping-busy/meal small.jpg
+  - url: /assets/images/post-photos/2020-03-18-staying-positive-keeping-busy/2.jpeg
+    image_path: /assets/images/post-photos/2020-03-18-staying-positive-keeping-busy/2 small.jpeg
 categories:
   - Mental Health
   - Lifestyle
