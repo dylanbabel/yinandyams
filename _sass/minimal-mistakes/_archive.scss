@@ -229,7 +229,19 @@
     }
 
     @include breakpoint($medium) {
-      max-height: 120px;
+      max-height: 200px;
+    }
+    
+    @include breakpoint($large) {
+      max-height: 300px;
+    }
+    
+    @include breakpoint($x-large) {
+      max-height: 400px;
+    }
+    
+    @include breakpoint($max-width) {
+      max-height: 100%;
     }
   }
 }
