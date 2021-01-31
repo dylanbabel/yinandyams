@@ -5,7 +5,7 @@ header:
   overlay_color: "#F5DCE1"
   overlay_filter: "0.1"
   overlay_image: /assets/images/post-photos/2020-01-28-welcome-to-yin&yams/mountain top.png
-  teaser: "/assets/images/post-photos/2020-01-28-welcome-to-yin&yams/mountain top(2).png"
+  teaser: "/assets/images/post-photos/2020-01-28-welcome-to-yin&yams/mountain top (2).png"
 layouts_gallery:
   - url: /assets/images/post-photos/2020-01-28-welcome-to-yin&yams/sisters.png
     image_path: /assets/images/post-photos/2020-01-28-welcome-to-yin&yams/sisters.png
