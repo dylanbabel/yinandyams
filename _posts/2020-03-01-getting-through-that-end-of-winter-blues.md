@@ -5,7 +5,7 @@ header:
   overlay_color: "#F5DCE1"
   overlay_filter: "0.1"
   overlay_image: /assets/images/post-photos/2020-03-01-getting-through-that-end-of-winter-blues/snowy.jpg
-  teaser: "/assets/images/post-photos/2020-03-01-getting-through-that-end-of-winter-blues/snowy(2).jpg"
+  teaser: "/assets/images/post-photos/2020-03-01-getting-through-that-end-of-winter-blues/snowy (2).jpg"
 layouts_gallery:
   - url: /assets/images/post-photos/2020-03-01-getting-through-that-end-of-winter-blues/person.jpg
     image_path: /assets/images/post-photos/2020-03-01-getting-through-that-end-of-winter-blues/person small.jpg
