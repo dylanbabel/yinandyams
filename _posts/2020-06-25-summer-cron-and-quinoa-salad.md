@@ -5,7 +5,7 @@ header:
   overlay_color: "#F5DCE1"
   overlay_filter: "0.1"
   overlay_image: /assets/images/post-photos/2020-06-25-summer-cron-and-quinoa-salad/header.jpeg
-  teaser: "/assets/images/post-photos/2020-06-25-summer-cron-and-quinoa-salad/header(2).jpeg"
+  teaser: "/assets/images/post-photos/2020-06-25-summer-cron-and-quinoa-salad/header (2).jpeg"
 layouts_gallery:
   - url: /assets/images/post-photos/2020-06-25-summer-cron-and-quinoa-salad/salad in bowl.jpeg
     image_path: /assets/images/post-photos/2020-06-25-summer-cron-and-quinoa-salad/salad in bowl small.jpeg
