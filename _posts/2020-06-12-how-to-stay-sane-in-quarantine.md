@@ -5,7 +5,7 @@ header:
   overlay_color: "#F5DCE1"
   overlay_filter: "0.1"
   overlay_image: /assets/images/post-photos/2020-06-12-how-to-stay-sane-in-quarantine/stay home.png
-  teaser: "/assets/images/post-photos/2020-06-12-how-to-stay-sane-in-quarantine/stay home.png"
+  teaser: "/assets/images/post-photos/2020-06-12-how-to-stay-sane-in-quarantine/stay home (2).png"
 layouts_gallery:
   - url: /assets/images/post-photos/2020-06-12-how-to-stay-sane-in-quarantine/journal.png
     image_path: /assets/images/post-photos/2020-06-12-how-to-stay-sane-in-quarantine/journal small.png

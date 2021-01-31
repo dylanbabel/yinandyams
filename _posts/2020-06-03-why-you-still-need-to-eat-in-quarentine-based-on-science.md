@@ -5,7 +5,7 @@ header:
   overlay_color: "#F5DCE1"
   overlay_filter: "0.1"
   overlay_image: /assets/images/post-photos/2020-06-03-why-you-still-need-to-eat-in-quarentine-based-on-science/sad plate.png
-  teaser: "/assets/images/post-photos/2020-06-03-why-you-still-need-to-eat-in-quarentine-based-on-science/sad plate.png"
+  teaser: "/assets/images/post-photos/2020-06-03-why-you-still-need-to-eat-in-quarentine-based-on-science/sad plate (2).png"
 layouts_gallery:
   - url: /assets/images/post-photos/2020-06-03-why-you-still-need-to-eat-in-quarentine-based-on-science/BMR 50-80%.png
     image_path: /assets/images/post-photos/2020-06-03-why-you-still-need-to-eat-in-quarentine-based-on-science/BMR 50-80%.png

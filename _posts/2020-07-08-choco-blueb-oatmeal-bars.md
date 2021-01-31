@@ -5,7 +5,7 @@ header:
   overlay_color: "#F5DCE1"
   overlay_filter: "0.1"
   overlay_image: /assets/images/post-photos/2020-07-08-choco-blueb-oatmeal-bars/bars in dish.jpeg
-  teaser: "/assets/images/post-photos/2020-07-08-choco-blueb-oatmeal-bars/bars in dish.jpeg"
+  teaser: "/assets/images/post-photos/2020-07-08-choco-blueb-oatmeal-bars/bars in dish (2).jpeg"
 layouts_gallery:
   - url: /assets/images/post-photos/2020-07-08-choco-blueb-oatmeal-bars/stuff in bowl.jpeg
     image_path: /assets/images/post-photos/2020-07-08-choco-blueb-oatmeal-bars/stuff in bowl small.jpeg

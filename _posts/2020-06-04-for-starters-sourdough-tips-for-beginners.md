@@ -5,7 +5,7 @@ header:
   overlay_color: "#F5DCE1"
   overlay_filter: "0.1"
   overlay_image: /assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/header.jpg
-  teaser: "/assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/header.jpg"
+  teaser: "/assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/header (2).jpg"
 layouts_gallery:
   - url: /assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/0.jpg
     image_path: /assets/images/post-photos/2020-06-04-for-starters-sourdough-tips-for-beginners/0 small.jpg

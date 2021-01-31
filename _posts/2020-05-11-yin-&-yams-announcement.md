@@ -5,7 +5,7 @@ header:
   overlay_color: "#F5DCE1"
   overlay_filter: "0.1"
   overlay_image: /assets/images/post-photos/2020-05-11-yin-&-yams-announcement/header.jpg
-  teaser: "/assets/images/post-photos/2020-05-11-yin-&-yams-announcement/header.jpg"
+  teaser: "/assets/images/post-photos/2020-05-11-yin-&-yams-announcement/header (2).jpg"
 layouts_gallery:
   - url: /assets/images/post-photos/2020-05-11-yin-&-yams-announcement/0.JPG
     image_path: /assets/images/post-photos/2020-05-11-yin-&-yams-announcement/0.JPG

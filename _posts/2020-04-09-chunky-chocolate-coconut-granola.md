@@ -5,7 +5,7 @@ header:
   overlay_color: "#F5DCE1"
   overlay_filter: "0.1"
   overlay_image: /assets/images/post-photos/2020-04-09-chunky-chocolate-coconut-granola/header.jpeg
-  teaser: "/assets/images/post-photos/2020-04-09-chunky-chocolate-coconut-granola/header.jpeg"
+  teaser: "/assets/images/post-photos/2020-04-09-chunky-chocolate-coconut-granola/header (2).jpeg"
 layouts_gallery:
   - url: /assets/images/post-photos/2020-04-09-chunky-chocolate-coconut-granola/1.jpeg
     image_path: /assets/images/post-photos/2020-04-09-chunky-chocolate-coconut-granola/1 small.jpeg
