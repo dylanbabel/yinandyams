@@ -8,11 +8,6 @@ sections:
   label: Posts
   create: all
   new_doc_ext: md
-- type: jekyll-pages
-  path: _pages
-  label: pages
-  create: all
-  new_doc_ext: md
 - type: document
   path: _data/navigation.yml
   label: navigation
