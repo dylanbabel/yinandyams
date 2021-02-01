@@ -9,6 +9,7 @@ sections:
   create: all
   new_doc_ext: md
 - type: jekyll-pages
+  path: _pages
   label: pages
   create: all
   new_doc_ext: md
