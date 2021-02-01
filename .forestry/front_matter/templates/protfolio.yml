@@ -1,0 +1,22 @@
+---
+label: Protfolio
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: collection
+  label: collection
+- type: text
+  name: entries_layout
+  label: entries_layout
+- type: text
+  name: classes
+  label: classes
