@@ -1,0 +1,51 @@
+---
+label: Recipes
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: field_group
+  name: header
+  label: header
+  fields:
+  - type: text
+    name: overlay_color
+    label: overlay_color
+  - type: text
+    name: overlay_filter
+    label: overlay_filter
+  - type: file
+    name: overlay_image
+    label: overlay_image
+  - type: file
+    name: teaser
+    label: teaser
+- type: text
+  name: author
+  label: author
+- type: field_group_list
+  name: layouts_gallery
+  label: layouts_gallery
+  fields:
+  - type: file
+    name: url
+    label: url
+  - type: file
+    name: image_path
+    label: image_path
+  - type: text
+    name: alt
+    label: alt
+- type: boolean
+  name: toc
+  label: toc
+- type: boolean
+  name: toc_sticky
+  label: toc_sticky
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
