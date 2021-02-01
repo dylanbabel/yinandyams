@@ -5,8 +5,9 @@ admin_path: admin
 webhook_url: 
 sections:
 - type: jekyll-pages
-  label: _pages
-  create: none
+  label: Pages
+  create: all
+  match: "**/*"
 - type: document
   path: _sass/minimal-mistakes/_variables.scss
   label: Variables
