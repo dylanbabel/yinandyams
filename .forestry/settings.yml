@@ -7,16 +7,13 @@ sections:
 - type: jekyll-pages
   label: pages
   create: all
-  match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: document
   path: _data/navigation.yml
   label: navigation
-  match: "**/*"
 - type: document
   path: _data/authors.yml
   label: authors
-  match: "**/*"
 - type: directory
   path: _portfolio
   label: Portfolio
